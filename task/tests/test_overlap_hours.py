@@ -1,5 +1,5 @@
 import unittest
-from tests import overlap_hours_funcs
+from app import overlap_hours_funcs
 
 class TestOverlappingHours(unittest.TestCase):
     def test_overlapping_days(self):
