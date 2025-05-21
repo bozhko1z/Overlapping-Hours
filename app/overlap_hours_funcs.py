@@ -1,7 +1,7 @@
 from flask import Flask, render_template
 from collections import Counter
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder='../templates')
 
 def overlapping_days(data):
     working_days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
