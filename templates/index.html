@@ -1,12 +1,70 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>Overlapping hours</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="style.css">
-    </head>
-    <body>
-        <h1>test</h1>
-    </body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Working Hours Formset</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 2em;
+        }
+        .form-entry {
+            border: 1px solid #ccc;
+            padding: 1em;
+            margin-bottom: 1em;
+        }
+    </style>
+</head>
+<body>
+    <h1>Working Hours Input</h1>
+
+    <form id="working-hours-form" method="post" action="/">
+        <div id="formset">
+            <div class="form-entry">
+                <label>Day of the week:
+                    <select name="day">
+                        <option value="Monday">Monday</option>
+                        <option value="Tuesday">Tuesday</option>
+                        <option value="Wednesday">Wednesday</option>
+                        <option value="Thursday">Thursday</option>
+                        <option value="Friday">Friday</option>
+                        <option value="Saturday">Saturday</option>
+                        <option value="Sunday">Sunday</option>
+                        <option value="Working days">Working days</option>
+                        <option value="Weekend">Weekend</option>
+                        <option value="All days">All days</option>
+                    </select>
+                </label><br>
+                <label>Start time:
+                    <input type="time" name="start">
+                </label><br>
+                <label>End time:
+                    <input type="time" name="end">
+                </label><br>
+                <button type="button" onclick="removeEntry(this)">Remove</button>
+            </div>
+        </div>
+
+        <button type="button" onclick="addEntry()">Add Another Entry</button>
+        <button type="submit">Submit</button>
+    </form>
+
+    <script>
+        function addEntry() {
+            const formset = document.getElementById('formset');
+            const entry = document.querySelector('.form-entry').cloneNode(true);
+            formset.appendChild(entry);
+        }
+
+        function removeEntry(button) {
+            const entry = button.parentElement;
+            const formset = document.getElementById('formset');
+            if (formset.children.length > 1) {
+                formset.removeChild(entry);
+            } else {
+                alert("At least one entry is required.");
+            }
+        }
+    </script>
+</body>
 </html>
