@@ -13,6 +13,7 @@ def find_day(day):
 
 def overlapping_days(data):
     #count how many times each day appears
+    #it collects all day values from all entries in data
     day_counter = Counter(day for entry in data for day in entry["Day"])
 
     for day, count in day_counter.items():
