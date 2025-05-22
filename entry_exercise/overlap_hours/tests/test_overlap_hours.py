@@ -1,14 +1,14 @@
 import unittest
-from app.overlap_hours_funcs import overlapping_days, overlapping_time
+from overlap_hours import funcs as f
 
 class TestOverlappingHours(unittest.TestCase):
     def test_overlapping_days(self):
         data = [
                 {"Day": "Monday", "Start": "09:00", "End": "11:00"},
-                {"Day": "Monday", "Start": "12:00", "End": "14:00"},
+                {"Day": "Friday", "Start": "12:00", "End": "14:00"},
                 {"Day": "Monday", "Start": "015:00", "End": "19:00"}
             ]
-        self.assertFalse(overlapping_days(data))
+        self.assertFalse(f.overlapping_days(data))
     
     def test_no_overlapping_days(self):
         data = [
@@ -16,7 +16,7 @@ class TestOverlappingHours(unittest.TestCase):
                 {"Day": "Tuesday", "Start": "12:00", "End": "14:00"},
                 {"Day": "Friday", "Start": "015:00", "End": "19:00"}
             ]
-        self.assertTrue(overlapping_days(data)) 
+        self.assertTrue(f.overlapping_days(data)) 
         
     def test_overlapping_time(self):
         data = [
@@ -24,7 +24,7 @@ class TestOverlappingHours(unittest.TestCase):
                 {"Day": "Monday", "Start": "12:00", "End": "14:00"},
                 {"Day": "Friday", "Start": "15:00", "End": "19:00"}
             ]
-        self.assertFalse(overlapping_time(data))
+        self.assertFalse(f.overlapping_time(data))
         
     def test_no_overlapping_time(self):
         data = [
@@ -32,4 +32,4 @@ class TestOverlappingHours(unittest.TestCase):
                 {"Day": "Monday", "Start": "15:00", "End": "19:00"},
                 {"Day": "Friday", "Start": "15:00", "End": "19:00"}
             ]
-        self.assertTrue(overlapping_time(data))
+        self.assertTrue(f.overlapping_time(data))
