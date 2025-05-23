@@ -21,7 +21,7 @@ def overlapping_time(data):
 
     # checks for any overlaps
     for i in range(len(data) - 1):
-        if data[i]['End'] > data[i + 1]['Start']:
+        if data[i]['End'] > data[i + 1]['Start'] and data[i]['Day'] == data[i + 1]['Day']:
             print("Overlap")
             return False
         else:
