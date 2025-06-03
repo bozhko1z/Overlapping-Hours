@@ -1,4 +1,4 @@
-from overlap_hours import funcs
+from overlap_hours.API.overlap_checker import interf_run
 import ast
 
 def main():
@@ -8,8 +8,8 @@ def main():
     #converts to dict
     data = ast.literal_eval(days_hours)
     
-    funcs.overlapping_days(data)
-    funcs.overlapping_time(data)
+    result = interf_run(data, "both")
+    print(result)
     
 if __name__ == "__main__":
     main()
