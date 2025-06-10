@@ -1,0 +1,17 @@
+2025-06-11 14:16:03,044 - INFO - Enter day, start and end hours: 
+2025-06-11 14:16:09,096 - INFO - Duplicate entries found for M: 2 times.
+2025-06-11 14:16:09,097 - INFO - No overlap
+2025-06-11 14:16:09,097 - INFO - False
+2025-06-11 14:18:29,224 - INFO - Enter day, start and end hours: 
+2025-06-11 14:18:51,074 - INFO - Duplicate entries found for M: 2 times.
+2025-06-11 14:18:51,075 - ERROR - Overlap
+2025-06-11 14:18:51,076 - INFO - False
+2025-06-13 15:33:18,578 - INFO - Enter day, start and end hours: 
+2025-06-13 15:33:33,688 - INFO - Enter day, start and end hours: 
+2025-06-13 15:33:37,117 - INFO - Duplicate entries found for M: 2 times.
+2025-06-13 15:33:37,117 - ERROR - Overlap
+2025-06-13 15:33:37,118 - INFO - None
+2025-06-13 15:35:01,559 - INFO - Enter day, start and end hours: 
+2025-06-13 15:35:05,851 - INFO - Duplicate entries found for M: 2 times.
+2025-06-13 15:35:05,852 - ERROR - Overlap
+2025-06-13 15:35:05,853 - INFO - False

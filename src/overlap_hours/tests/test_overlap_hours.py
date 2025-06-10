@@ -6,7 +6,7 @@ class TestOverlappingHours(unittest.TestCase):
         data = [
                 {"Day": "Monday", "Start": "09:00", "End": "11:00"},
                 {"Day": "Friday", "Start": "12:00", "End": "14:00"},
-                {"Day": "Monday", "Start": "015:00", "End": "19:00"}
+                {"Day": "Monday", "Start": "15:00", "End": "19:00"}
             ]
         self.assertFalse(f.overlapping_days(data))
     
