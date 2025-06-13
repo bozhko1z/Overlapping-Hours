@@ -1,6 +1,6 @@
 from ..funcs import overlapping_days, overlapping_time
 
-def interf_run(data: dict, operation: str = 'both') -> bool:
+def run_overlap_funcs(data: dict) -> bool:
     #google-style documentation
     """
     Interface for better handling the two overlap functions
@@ -18,10 +18,7 @@ def interf_run(data: dict, operation: str = 'both') -> bool:
         ValueError: if user tries to enter invalid operation
     
     """
-    #new solution
-    if operation != 'both':
-        return False
-        #first way
+   
     if False in [overlapping_days(data=data), overlapping_time(data=data)]:
         return False
     return True
