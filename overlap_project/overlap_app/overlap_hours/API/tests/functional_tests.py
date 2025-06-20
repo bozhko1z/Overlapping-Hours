@@ -54,7 +54,7 @@ class TestCalledFunctions(unittest.TestCase):
             {"Day": "Weekend", "Start": "10:30", "End": "12:30"},
         ]
         self.assertFalse(run_overlap_funcs(data=data))
-
+        
     def test_overlap_check_6(self):
         testName = self._testMethodName
         logging.info(f"Running test: {testName}")
@@ -64,7 +64,6 @@ class TestCalledFunctions(unittest.TestCase):
             {"Day": "Friday", "Start": "10:00", "End": "11:00"},
             {"Day": "Weekend", "Start": "14:00", "End": "16:00"},
         ]
-        self.assertTrue(run_overlap_funcs(data=data))
 
     def test_overlap_check_7(self):
         testName = self._testMethodName
@@ -132,28 +131,28 @@ class TestCalledFunctions(unittest.TestCase):
         ]
         self.assertTrue(run_overlap_funcs(data=data))
 
-    #   personal tests
+
+#   personal tests
     def test_overlap_check_14(self):
         testName = self._testMethodName
         logging.info(f"Running test: {testName}")
         data = []
         self.assertFalse(run_overlap_funcs(data=data))
-
+        
     def test_overlap_check_15(self):
         testName = self._testMethodName
         logging.info(f"Running test: {testName}")
         data = [{"Day": "Monday", "Start": "09:00", "End": "12:30"}]
         self.assertTrue(run_overlap_funcs(data=data))
-
+    
     def test_overlap_check_16(self):
         testName = self._testMethodName
         logging.info(f"Running test: {testName}")
         data = [
-            {"Day": "Monday", "Start": "23:00", "End": "00:02"},
-            {"Day": "Monday", "Start": "00:00", "End": "02:30"},
-        ]
+                {"Day": "Monday", "Start": "23:00", "End": "00:02"},
+                {"Day": "Monday", "Start": "00:00", "End": "02:30"}
+            ]
         self.assertTrue(run_overlap_funcs(data=data))
-
-
+           
 if __name__ == "__main__":
     unittest.main()

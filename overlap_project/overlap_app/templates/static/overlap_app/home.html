@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <base href="/">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Check Overlap</title>
+     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    {%load static%}
+    <link rel="stylesheet" type="text/css" href="{%static 'overlap_app/style.css'%}">
+</head>
+<body class="bg-light">
+
+    <div class="container mt-5">
+        <h2 class="text-center mb-4">Check time overlap</h2>
+
+        <form method="POST"  onsubmit="hiddenInp()">
+            {% csrf_token %}
+
+            <div class="p-3 mt-4 column" id="renSlot">
+            </div>
+
+            <div id="slots">
+                <div class="slot border rounded p-3  mb-3 row">
+                    <div class="mb-3 col-4">
+                        <label for="days" class="form-label">Select Day</label>
+                        <select name="day" id="days" class="form-select">
+                            <option value="Monday">Monday</option>
+                            <option value="Tuesday">Tuesday</option>
+                            <option value="Wednesday">Wednesday</option>
+                            <option value="Thursday">Thursday</option>
+                            <option value="Friday">Friday</option>
+                            <option value="Saturday">Saturday</option>
+                            <option value="Sunday">Sunday</option>
+                            <option value="Weekend">Weekend</option>
+                            <option value="Working days">Working Days</option>
+                            <option value="All days">All Days</option>
+                        </select>
+                    </div>
+
+                    <div class="mb-3 col-4">
+                        <label for="starts" class="form-label">Start Time</label>
+                        <input type="text" name="start" id="starts" class="form-control" maxlength=5 placeholder="HH:MM">
+                        <span id="startError" class="error"></span>
+                    </div>
+
+                    <div class="mb-3 col-4">
+                        <label for="ends" class="form-label">End Time</label>
+                        <input type="text" name="end" id="ends" class="form-control" maxlength=5 placeholder="HH:MM">
+                        <span id="endError" class="error"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <button type="button" onclick="saveSlot()" class="btn btn-outline-secondary">Save Slot</button>
+                <button type="submit" class="btn btn-primary">Check Overlap</button>
+            </div>
+        </form>
+
+
+
+            {% if result is not None %}
+                {% if result %}
+                    <div class="fade-out alert alert-success">No Overlap Detected</div>
+                {% else %}
+                    <div class="fade-out alert alert-danger">Overlap Detected</div>
+                {% endif %}
+            {% endif %}
+    </div>
+
+    <script>
+        const slots = []
+        const currentSlot = document.querySelector('.slot');
+
+            currentSlot.addEventListener('keydown', function (event){
+                if (event.keyCode === 13 && event.target.nodeName === "INPUT") {
+                    var form = event.target.form;
+                    var index = Array.prototype.indexOf.call(form, event.target);
+                    form.elements[index + 1].focus();
+                    event.preventDefault();
+                }
+            });
+
+
+        function hiddenInp(){
+            const form = document.querySelector('form');
+
+            document.querySelectorAll('.hidden-slot').forEach(e => e.remove());
+
+            slots.forEach(slot => {
+                ['day', 'start', 'end'].forEach(key => {
+                    const input = document.createElement('input');
+                    input.type = 'hidden';
+                    input.name = key;
+                    input.value = slot[key];
+                    input.classList.add('hidden-slot');
+                    form.appendChild(input);
+                });
+            });
+        }
+
+        function saveSlot() {
+
+            const dayInput = currentSlot.querySelector('select');
+            const startInput = currentSlot.querySelector('input[name="start"]');
+            const endInput = currentSlot.querySelector('input[name="end"]');
+
+            const day = dayInput.value
+            const start = startInput.value
+            const end = endInput.value
+
+
+            const startError = document.getElementById("startError");
+            const endError = document.getElementById("endError");
+
+            function isTimeRangeValid(str) {
+                const [hourStr, minuteStr] = str.split(":");
+                const hour = parseInt(hourStr, 10);
+                const minute = parseInt(minuteStr, 10);
+
+                return (
+                    !isNaN(hour) &&
+                    !isNaN(minute) &&
+                    hour >= 0 && hour <= 23 &&
+                    minute >= 0 && minute <= 59
+                );
+            }
+
+
+            if(!start && !end){
+                startError.textContent = "Please fill in all the fields!!!";
+                endError.textContent = "Please fill in all the fields!!!";
+                return;
+            } else if(!end){
+                endError.textContent = "Please fill in all the fields!!!";
+                return;
+            } else if(!start){
+                startError.textContent = "Please fill in all the fields!!!";
+                return;
+            }
+
+            if (end < start){
+                endError.textContent = "End time cannot be bigger than start time!!!"
+                return;
+            }
+            else{
+                startError.textContent = "";
+                endError.textContent = "";
+            }
+
+            if(!isTimeRangeValid(start) && !isTimeRangeValid(end)){
+                startError.textContent = "Enter a valid time!";
+                endError.textContent = "Enter a valid time!";
+                startInput.value = '';
+                endInput.value = '';
+                return;
+            } else if(!isTimeRangeValid(end)){
+                endError.textContent = "Enter a valid time!";
+                endInput.value = '';
+                return;
+            } else if(!isTimeRangeValid(start)){
+                startError.textContent = "Enter a valid time!";
+                startInput.value = '';
+                return;
+            }
+            else{
+                startError.textContent = "";
+                endError.textContent = "";
+            }
+
+            slots.push({day, start, end})
+
+            renderSlot()
+
+            dayInput.selectedIndex = 0
+            startInput.value = ''
+            endInput.value = ''
+
+        }
+
+        function renderSlot(){
+            const displayDiv = document.getElementById("renSlot");
+
+            if (!displayDiv) return;
+
+            displayDiv.innerHTML = "";
+
+            slots.forEach((slot, index) => {
+                const div = document.createElement("div");
+                div.className = "mb-2";
+                div.innerHTML = `Slot ${index + 1}: ${slot.day} ${slot.start} - ${slot.end}`;
+                const editBtn = document.createElement("button");
+                editBtn.textContent = "Edit";
+                editBtn.className = "btn btn-sm btn-danger ms-2";
+                editBtn.onclick = () => editSlot(index);
+                div.appendChild(editBtn)
+                displayDiv.appendChild(div);
+            });
+        }
+
+        function editSlot(index){
+            const dayInput = currentSlot.querySelector('select[name="day"]');
+            const startInput = currentSlot.querySelector('input[name="start"]');
+            const endInput = currentSlot.querySelector('input[name="end"]');
+
+            dayInput.value = slots[index].day;
+            startInput.value = slots[index].start;
+            endInput.value = slots[index].end;
+            slots.splice(index, 1);
+
+            renderSlot()
+        }
+
+    </script>
+
+</body>
+</html>
