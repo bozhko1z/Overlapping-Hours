@@ -15,3 +15,1257 @@
 2025-06-13 15:35:05,851 - INFO - Duplicate entries found for M: 2 times.
 2025-06-13 15:35:05,852 - ERROR - Overlap
 2025-06-13 15:35:05,853 - INFO - False
+2025-06-13 18:09:22,451 - INFO - No overlap
+2025-06-13 18:09:22,452 - INFO - No overlap
+2025-06-13 18:09:22,454 - INFO - Duplicate entries found for M: 2 times.
+2025-06-13 18:09:22,455 - INFO - No overlap
+2025-06-13 18:09:22,456 - INFO - No overlap
+2025-06-13 18:09:22,457 - INFO - No overlap
+2025-06-13 18:09:22,457 - INFO - No overlap
+2025-06-13 18:09:22,458 - INFO - No overlap
+2025-06-13 18:09:22,459 - INFO - No overlap
+2025-06-13 18:09:22,460 - INFO - No overlap
+2025-06-13 18:09:22,460 - INFO - No overlap
+2025-06-13 18:09:22,461 - INFO - No overlap
+2025-06-13 18:09:22,461 - INFO - No overlap
+2025-06-13 18:09:22,461 - INFO - No overlap
+2025-06-13 18:09:22,462 - INFO - No overlap
+2025-06-13 18:09:22,463 - INFO - No overlap
+2025-06-13 18:09:22,463 - INFO - No overlap
+2025-06-13 18:09:22,464 - INFO - No overlap
+2025-06-13 18:09:22,465 - INFO - Duplicate entries found for S: 2 times.
+2025-06-13 18:09:22,465 - INFO - No overlap
+2025-06-13 18:09:22,466 - INFO - Duplicate entries found for M: 4 times.
+2025-06-13 18:09:22,467 - INFO - No overlap
+2025-06-13 18:09:22,468 - INFO - Duplicate entries found for M: 2 times.
+2025-06-13 18:09:22,468 - ERROR - Overlap
+2025-06-13 18:09:22,469 - INFO - Duplicate entries found for M: 3 times.
+2025-06-13 18:09:22,469 - INFO - No overlap
+2025-06-13 18:17:35,316 - INFO - No overlap
+2025-06-13 18:17:35,317 - INFO - No overlap
+2025-06-13 18:17:35,319 - INFO - Duplicate entries found for M: 2 times.
+2025-06-13 18:17:35,319 - INFO - No overlap
+2025-06-13 18:17:35,320 - INFO - No overlap
+2025-06-13 18:17:35,321 - INFO - No overlap
+2025-06-13 18:17:35,321 - INFO - No overlap
+2025-06-13 18:17:35,321 - INFO - No overlap
+2025-06-13 18:17:35,323 - INFO - No overlap
+2025-06-13 18:17:35,323 - INFO - No overlap
+2025-06-13 18:17:35,324 - INFO - No overlap
+2025-06-13 18:17:35,324 - INFO - No overlap
+2025-06-13 18:17:35,325 - INFO - No overlap
+2025-06-13 18:17:35,326 - INFO - No overlap
+2025-06-13 18:17:35,327 - INFO - No overlap
+2025-06-13 18:17:35,327 - INFO - No overlap
+2025-06-13 18:17:35,329 - INFO - No overlap
+2025-06-13 18:17:35,329 - INFO - No overlap
+2025-06-13 18:17:35,330 - INFO - Duplicate entries found for S: 2 times.
+2025-06-13 18:17:35,331 - INFO - No overlap
+2025-06-13 18:17:35,332 - INFO - Duplicate entries found for M: 4 times.
+2025-06-13 18:17:35,332 - INFO - No overlap
+2025-06-13 18:17:35,334 - INFO - Duplicate entries found for M: 2 times.
+2025-06-13 18:17:35,335 - ERROR - Overlap
+2025-06-13 18:17:35,336 - INFO - Duplicate entries found for M: 3 times.
+2025-06-13 18:17:35,336 - INFO - No overlap
+2025-06-13 18:19:32,648 - INFO - No overlap
+2025-06-13 18:19:32,649 - INFO - No overlap
+2025-06-13 18:19:32,651 - INFO - Duplicate entries found for M: 2 times.
+2025-06-13 18:19:32,651 - INFO - No overlap
+2025-06-13 18:19:32,652 - INFO - No overlap
+2025-06-13 18:19:32,652 - INFO - No overlap
+2025-06-13 18:19:32,653 - INFO - No overlap
+2025-06-13 18:19:32,653 - INFO - No overlap
+2025-06-13 18:19:32,655 - INFO - No overlap
+2025-06-13 18:19:32,656 - INFO - No overlap
+2025-06-13 18:19:32,656 - INFO - No overlap
+2025-06-13 18:19:32,657 - INFO - No overlap
+2025-06-13 18:19:32,657 - INFO - No overlap
+2025-06-13 18:19:32,657 - INFO - No overlap
+2025-06-13 18:19:32,658 - INFO - No overlap
+2025-06-13 18:19:32,659 - INFO - No overlap
+2025-06-13 18:19:32,660 - INFO - No overlap
+2025-06-13 18:19:32,661 - INFO - No overlap
+2025-06-13 18:19:32,662 - INFO - Duplicate entries found for S: 2 times.
+2025-06-13 18:19:32,663 - INFO - No overlap
+2025-06-13 18:19:32,664 - INFO - Duplicate entries found for M: 4 times.
+2025-06-13 18:19:32,665 - INFO - No overlap
+2025-06-13 18:19:32,666 - INFO - Duplicate entries found for M: 2 times.
+2025-06-13 18:19:32,666 - ERROR - Overlap
+2025-06-13 18:19:32,667 - INFO - Duplicate entries found for M: 3 times.
+2025-06-13 18:19:32,668 - INFO - No overlap
+2025-06-13 18:19:56,523 - INFO - No overlap
+2025-06-13 18:19:56,524 - INFO - No overlap
+2025-06-13 18:19:56,526 - INFO - Duplicate entries found for M: 2 times.
+2025-06-13 18:19:56,527 - INFO - No overlap
+2025-06-13 18:19:56,528 - INFO - No overlap
+2025-06-13 18:19:56,529 - INFO - No overlap
+2025-06-13 18:19:56,530 - INFO - No overlap
+2025-06-13 18:19:56,530 - INFO - No overlap
+2025-06-13 18:19:56,533 - INFO - No overlap
+2025-06-13 18:19:56,534 - INFO - No overlap
+2025-06-13 18:19:56,534 - INFO - No overlap
+2025-06-13 18:19:56,535 - INFO - No overlap
+2025-06-13 18:19:56,536 - INFO - No overlap
+2025-06-13 18:19:56,536 - INFO - No overlap
+2025-06-13 18:19:56,537 - INFO - No overlap
+2025-06-13 18:19:56,537 - INFO - No overlap
+2025-06-13 18:19:56,538 - INFO - No overlap
+2025-06-13 18:19:56,539 - INFO - No overlap
+2025-06-13 18:19:56,540 - INFO - Duplicate entries found for S: 2 times.
+2025-06-13 18:19:56,541 - INFO - No overlap
+2025-06-13 18:19:56,541 - INFO - Duplicate entries found for M: 4 times.
+2025-06-13 18:19:56,542 - INFO - No overlap
+2025-06-13 18:19:56,542 - INFO - Duplicate entries found for M: 2 times.
+2025-06-13 18:19:56,542 - ERROR - Overlap
+2025-06-13 18:19:56,543 - INFO - Duplicate entries found for M: 3 times.
+2025-06-13 18:19:56,543 - INFO - No overlap
+2025-06-13 18:40:17,511 - INFO - Duplicate entries found for o: 2 times.
+2025-06-13 18:40:17,512 - INFO - No overlap
+2025-06-13 18:40:17,512 - INFO - Duplicate entries found for o: 2 times.
+2025-06-13 18:40:17,513 - INFO - No overlap
+2025-06-13 18:40:17,514 - INFO - No overlap
+2025-06-13 18:40:17,515 - INFO - No overlap
+2025-06-13 18:40:17,516 - INFO - No overlap
+2025-06-13 18:40:17,516 - INFO - No overlap
+2025-06-13 18:40:17,517 - INFO - No overlap
+2025-06-13 18:40:17,517 - INFO - No overlap
+2025-06-13 18:40:17,518 - INFO - No overlap
+2025-06-13 18:40:17,518 - INFO - No overlap
+2025-06-13 18:40:17,519 - INFO - No overlap
+2025-06-13 18:40:17,520 - INFO - No overlap
+2025-06-13 18:40:17,521 - INFO - Duplicate entries found for r: 2 times.
+2025-06-13 18:40:17,521 - INFO - No overlap
+2025-06-13 18:40:17,521 - INFO - Duplicate entries found for r: 2 times.
+2025-06-13 18:40:17,522 - INFO - No overlap
+2025-06-13 18:40:17,522 - INFO - Duplicate entries found for r: 3 times.
+2025-06-13 18:40:17,522 - INFO - No overlap
+2025-06-13 18:40:17,523 - INFO - Duplicate entries found for o: 4 times.
+2025-06-13 18:40:17,523 - INFO - No overlap
+2025-06-13 18:40:17,524 - INFO - Duplicate entries found for o: 2 times.
+2025-06-13 18:40:17,524 - ERROR - Overlap
+2025-06-13 18:40:17,524 - INFO - Duplicate entries found for o: 3 times.
+2025-06-13 18:40:17,524 - INFO - No overlap
+2025-06-13 18:41:15,592 - INFO - Duplicate entries found for a: 3 times.
+2025-06-13 18:41:15,593 - INFO - No overlap
+2025-06-13 18:41:15,594 - INFO - Duplicate entries found for a: 2 times.
+2025-06-13 18:41:15,594 - INFO - No overlap
+2025-06-13 18:41:15,596 - INFO - Duplicate entries found for a: 2 times.
+2025-06-13 18:41:15,596 - INFO - No overlap
+2025-06-13 18:41:15,596 - INFO - Duplicate entries found for a: 2 times.
+2025-06-13 18:41:15,597 - INFO - No overlap
+2025-06-13 18:41:15,597 - INFO - No overlap
+2025-06-13 18:41:15,597 - INFO - No overlap
+2025-06-13 18:41:15,597 - INFO - Duplicate entries found for a: 3 times.
+2025-06-13 18:41:15,598 - INFO - No overlap
+2025-06-13 18:41:15,598 - INFO - Duplicate entries found for a: 3 times.
+2025-06-13 18:41:15,598 - INFO - No overlap
+2025-06-13 18:41:15,598 - INFO - Duplicate entries found for a: 3 times.
+2025-06-13 18:41:15,598 - INFO - No overlap
+2025-06-13 18:41:15,598 - INFO - Duplicate entries found for a: 2 times.
+2025-06-13 18:41:15,599 - INFO - No overlap
+2025-06-13 18:41:15,599 - INFO - Duplicate entries found for a: 3 times.
+2025-06-13 18:41:15,599 - INFO - No overlap
+2025-06-13 18:41:15,600 - INFO - Duplicate entries found for a: 4 times.
+2025-06-13 18:41:15,600 - INFO - No overlap
+2025-06-13 18:41:15,601 - INFO - Duplicate entries found for a: 2 times.
+2025-06-13 18:41:15,601 - ERROR - Overlap
+2025-06-13 18:41:15,601 - INFO - Duplicate entries found for a: 3 times.
+2025-06-13 18:41:15,602 - INFO - No overlap
+2025-06-13 18:45:09,922 - INFO - Duplicate entries found for n: 2 times.
+2025-06-13 18:45:09,922 - INFO - No overlap
+2025-06-13 18:45:09,923 - INFO - Duplicate entries found for n: 2 times.
+2025-06-13 18:45:09,923 - INFO - No overlap
+2025-06-13 18:45:09,924 - INFO - Duplicate entries found for d: 2 times.
+2025-06-13 18:45:09,924 - INFO - No overlap
+2025-06-13 18:45:09,925 - INFO - Duplicate entries found for d: 2 times.
+2025-06-13 18:45:09,925 - INFO - No overlap
+2025-06-13 18:45:09,925 - INFO - Duplicate entries found for n: 2 times.
+2025-06-13 18:45:09,925 - INFO - No overlap
+2025-06-13 18:45:09,926 - INFO - Duplicate entries found for n: 2 times.
+2025-06-13 18:45:09,926 - INFO - No overlap
+2025-06-13 18:45:09,926 - INFO - Duplicate entries found for d: 3 times.
+2025-06-13 18:45:09,926 - INFO - No overlap
+2025-06-13 18:45:09,927 - INFO - Duplicate entries found for r: 2 times.
+2025-06-13 18:45:09,927 - INFO - No overlap
+2025-06-13 18:45:09,927 - INFO - Duplicate entries found for r: 2 times.
+2025-06-13 18:45:09,927 - INFO - No overlap
+2025-06-13 18:45:09,928 - INFO - Duplicate entries found for r: 3 times.
+2025-06-13 18:45:09,928 - INFO - No overlap
+2025-06-13 18:45:09,929 - INFO - Duplicate entries found for n: 4 times.
+2025-06-13 18:45:09,929 - INFO - No overlap
+2025-06-13 18:45:09,930 - INFO - Duplicate entries found for n: 2 times.
+2025-06-13 18:45:09,930 - ERROR - Overlap
+2025-06-13 18:45:09,931 - INFO - Duplicate entries found for n: 3 times.
+2025-06-13 18:45:09,931 - INFO - No overlap
+2025-06-13 18:46:21,760 - INFO - Duplicate entries found for a: 3 times.
+2025-06-13 18:46:21,762 - INFO - No overlap
+2025-06-13 18:46:21,763 - INFO - Duplicate entries found for a: 2 times.
+2025-06-13 18:46:21,764 - INFO - No overlap
+2025-06-13 18:46:21,766 - INFO - Duplicate entries found for a: 2 times.
+2025-06-13 18:46:21,766 - INFO - No overlap
+2025-06-13 18:46:21,768 - INFO - Duplicate entries found for a: 2 times.
+2025-06-13 18:46:21,769 - INFO - No overlap
+2025-06-13 18:46:21,770 - INFO - No overlap
+2025-06-13 18:46:21,770 - INFO - No overlap
+2025-06-13 18:46:21,771 - INFO - Duplicate entries found for a: 3 times.
+2025-06-13 18:46:21,771 - INFO - No overlap
+2025-06-13 18:46:21,772 - INFO - Duplicate entries found for a: 3 times.
+2025-06-13 18:46:21,773 - INFO - No overlap
+2025-06-13 18:46:21,774 - INFO - No overlap
+2025-06-13 18:46:21,774 - INFO - No overlap
+2025-06-13 18:46:21,776 - INFO - No overlap
+2025-06-13 18:46:21,776 - INFO - No overlap
+2025-06-13 18:46:21,778 - INFO - Duplicate entries found for t: 2 times.
+2025-06-13 18:46:21,778 - INFO - No overlap
+2025-06-13 18:46:21,779 - INFO - Duplicate entries found for a: 4 times.
+2025-06-13 18:46:21,779 - INFO - No overlap
+2025-06-13 18:46:21,781 - INFO - Duplicate entries found for a: 2 times.
+2025-06-13 18:46:21,781 - ERROR - Overlap
+2025-06-13 18:46:21,782 - INFO - Duplicate entries found for a: 3 times.
+2025-06-13 18:46:21,782 - INFO - No overlap
+2025-06-13 18:46:37,976 - INFO - Duplicate entries found for a: 3 times.
+2025-06-13 18:46:37,977 - INFO - No overlap
+2025-06-13 18:46:37,977 - INFO - Duplicate entries found for a: 2 times.
+2025-06-13 18:46:37,977 - INFO - No overlap
+2025-06-13 18:46:37,979 - INFO - Duplicate entries found for a: 2 times.
+2025-06-13 18:46:37,979 - INFO - No overlap
+2025-06-13 18:46:37,980 - INFO - Duplicate entries found for a: 2 times.
+2025-06-13 18:46:37,980 - INFO - No overlap
+2025-06-13 18:46:37,980 - INFO - No overlap
+2025-06-13 18:46:37,980 - INFO - No overlap
+2025-06-13 18:46:37,980 - INFO - Duplicate entries found for a: 3 times.
+2025-06-13 18:46:37,980 - INFO - No overlap
+2025-06-13 18:46:37,981 - INFO - Duplicate entries found for a: 3 times.
+2025-06-13 18:46:37,981 - INFO - No overlap
+2025-06-13 18:46:37,981 - INFO - Duplicate entries found for a: 3 times.
+2025-06-13 18:46:37,981 - INFO - No overlap
+2025-06-13 18:46:37,982 - INFO - Duplicate entries found for a: 2 times.
+2025-06-13 18:46:37,982 - INFO - No overlap
+2025-06-13 18:46:37,982 - INFO - Duplicate entries found for a: 3 times.
+2025-06-13 18:46:37,982 - INFO - No overlap
+2025-06-13 18:46:37,983 - INFO - Duplicate entries found for a: 4 times.
+2025-06-13 18:46:37,983 - INFO - No overlap
+2025-06-13 18:46:37,984 - INFO - Duplicate entries found for a: 2 times.
+2025-06-13 18:46:37,984 - ERROR - Overlap
+2025-06-13 18:46:37,985 - INFO - Duplicate entries found for a: 3 times.
+2025-06-13 18:46:37,985 - INFO - No overlap
+2025-06-13 18:52:45,397 - INFO - Duplicate entries found for y: 3 times.
+2025-06-13 18:52:45,398 - INFO - No overlap
+2025-06-13 18:52:45,398 - INFO - Duplicate entries found for y: 2 times.
+2025-06-13 18:52:45,399 - INFO - No overlap
+2025-06-13 18:52:45,400 - INFO - Duplicate entries found for y: 2 times.
+2025-06-13 18:52:45,401 - INFO - No overlap
+2025-06-13 18:52:45,402 - INFO - Duplicate entries found for y: 2 times.
+2025-06-13 18:52:45,403 - INFO - No overlap
+2025-06-13 18:52:45,404 - INFO - No overlap
+2025-06-13 18:52:45,404 - INFO - No overlap
+2025-06-13 18:52:45,405 - INFO - Duplicate entries found for y: 3 times.
+2025-06-13 18:52:45,406 - INFO - No overlap
+2025-06-13 18:52:45,407 - INFO - Duplicate entries found for y: 3 times.
+2025-06-13 18:52:45,408 - INFO - No overlap
+2025-06-13 18:52:45,408 - INFO - Duplicate entries found for y: 3 times.
+2025-06-13 18:52:45,409 - INFO - No overlap
+2025-06-13 18:52:45,409 - INFO - Duplicate entries found for y: 2 times.
+2025-06-13 18:52:45,410 - INFO - No overlap
+2025-06-13 18:52:45,410 - INFO - Duplicate entries found for y: 3 times.
+2025-06-13 18:52:45,411 - INFO - No overlap
+2025-06-13 18:52:45,412 - INFO - Duplicate entries found for y: 4 times.
+2025-06-13 18:52:45,412 - INFO - No overlap
+2025-06-13 18:52:45,413 - INFO - Duplicate entries found for y: 2 times.
+2025-06-13 18:52:45,413 - ERROR - Overlap
+2025-06-13 18:52:45,414 - INFO - Duplicate entries found for y: 3 times.
+2025-06-13 18:52:45,414 - INFO - No overlap
+2025-06-13 18:53:18,740 - INFO - Duplicate entries found for n: 2 times.
+2025-06-13 18:53:18,741 - INFO - No overlap
+2025-06-13 18:53:18,742 - INFO - Duplicate entries found for n: 2 times.
+2025-06-13 18:53:18,742 - INFO - No overlap
+2025-06-13 18:53:18,744 - INFO - No overlap
+2025-06-13 18:53:18,745 - INFO - No overlap
+2025-06-13 18:53:18,745 - INFO - No overlap
+2025-06-13 18:53:18,746 - INFO - No overlap
+2025-06-13 18:53:18,747 - INFO - Duplicate entries found for n: 2 times.
+2025-06-13 18:53:18,747 - INFO - No overlap
+2025-06-13 18:53:18,748 - INFO - Duplicate entries found for n: 2 times.
+2025-06-13 18:53:18,748 - INFO - No overlap
+2025-06-13 18:53:18,749 - INFO - No overlap
+2025-06-13 18:53:18,750 - INFO - No overlap
+2025-06-13 18:53:18,751 - INFO - No overlap
+2025-06-13 18:53:18,751 - INFO - No overlap
+2025-06-13 18:53:18,752 - INFO - No overlap
+2025-06-13 18:53:18,753 - INFO - No overlap
+2025-06-13 18:53:18,754 - INFO - Duplicate entries found for u: 2 times.
+2025-06-13 18:53:18,754 - INFO - No overlap
+2025-06-13 18:53:18,755 - INFO - Duplicate entries found for n: 4 times.
+2025-06-13 18:53:18,755 - INFO - No overlap
+2025-06-13 18:53:18,756 - INFO - Duplicate entries found for n: 2 times.
+2025-06-13 18:53:18,757 - ERROR - Overlap
+2025-06-13 18:53:18,759 - INFO - Duplicate entries found for n: 2 times.
+2025-06-13 18:53:18,760 - INFO - No overlap
+2025-06-13 18:53:34,966 - INFO - Duplicate entries found for a: 3 times.
+2025-06-13 18:53:34,967 - INFO - No overlap
+2025-06-13 18:53:34,969 - INFO - Duplicate entries found for a: 2 times.
+2025-06-13 18:53:34,970 - INFO - No overlap
+2025-06-13 18:53:34,972 - INFO - Duplicate entries found for a: 2 times.
+2025-06-13 18:53:34,973 - INFO - No overlap
+2025-06-13 18:53:34,976 - INFO - Duplicate entries found for a: 2 times.
+2025-06-13 18:53:34,977 - INFO - No overlap
+2025-06-13 18:53:34,977 - INFO - No overlap
+2025-06-13 18:53:34,978 - INFO - No overlap
+2025-06-13 18:53:34,979 - INFO - Duplicate entries found for a: 3 times.
+2025-06-13 18:53:34,980 - INFO - No overlap
+2025-06-13 18:53:34,983 - INFO - Duplicate entries found for a: 3 times.
+2025-06-13 18:53:34,983 - INFO - No overlap
+2025-06-13 18:53:34,984 - INFO - No overlap
+2025-06-13 18:53:34,985 - INFO - No overlap
+2025-06-13 18:53:34,987 - INFO - No overlap
+2025-06-13 18:53:34,988 - INFO - No overlap
+2025-06-13 18:53:34,992 - INFO - Duplicate entries found for u: 2 times.
+2025-06-13 18:53:34,993 - INFO - No overlap
+2025-06-13 18:53:34,996 - INFO - Duplicate entries found for a: 4 times.
+2025-06-13 18:53:34,996 - INFO - No overlap
+2025-06-13 18:53:34,998 - INFO - Duplicate entries found for a: 2 times.
+2025-06-13 18:53:34,999 - ERROR - Overlap
+2025-06-13 18:53:35,000 - INFO - Duplicate entries found for a: 3 times.
+2025-06-13 18:53:35,002 - INFO - No overlap
+2025-06-13 19:02:34,233 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:02:34,234 - INFO - No overlap
+2025-06-13 19:02:34,234 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:02:34,235 - INFO - No overlap
+2025-06-13 19:02:34,236 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:02:34,237 - INFO - No overlap
+2025-06-13 19:02:34,238 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:02:34,238 - INFO - No overlap
+2025-06-13 19:02:34,239 - INFO - No overlap
+2025-06-13 19:02:34,239 - INFO - No overlap
+2025-06-13 19:02:34,240 - INFO - No overlap
+2025-06-13 19:02:34,241 - INFO - No overlap
+2025-06-13 19:02:34,243 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:02:34,243 - INFO - No overlap
+2025-06-13 19:02:34,244 - INFO - Duplicate entries found for Saturday: 2 times.
+2025-06-13 19:02:34,244 - INFO - No overlap
+2025-06-13 19:02:34,244 - INFO - Duplicate entries found for Saturday: 2 times.
+2025-06-13 19:02:34,245 - INFO - No overlap
+2025-06-13 19:02:34,245 - INFO - Duplicate entries found for Saturday: 3 times.
+2025-06-13 19:02:34,246 - INFO - No overlap
+2025-06-13 19:02:34,249 - INFO - Duplicate entries found for Monday: 4 times.
+2025-06-13 19:02:34,249 - INFO - No overlap
+2025-06-13 19:02:34,251 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:02:34,251 - ERROR - Overlap
+2025-06-13 19:02:34,251 - INFO - Duplicate entries found for Monday: 3 times.
+2025-06-13 19:02:34,252 - INFO - No overlap
+2025-06-13 19:09:25,246 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:09:25,252 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:09:25,255 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:09:25,256 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:09:25,259 - INFO - No overlap
+2025-06-13 19:09:25,262 - INFO - No overlap
+2025-06-13 19:09:25,264 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:09:25,266 - INFO - Duplicate entries found for Saturday: 2 times.
+2025-06-13 19:09:25,267 - INFO - Duplicate entries found for Saturday: 2 times.
+2025-06-13 19:09:25,268 - INFO - Duplicate entries found for Saturday: 3 times.
+2025-06-13 19:09:25,270 - INFO - Duplicate entries found for Monday: 4 times.
+2025-06-13 19:09:25,273 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:09:25,274 - INFO - Duplicate entries found for Monday: 3 times.
+2025-06-13 19:09:59,600 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:09:59,601 - INFO - No overlap
+2025-06-13 19:09:59,601 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:09:59,601 - INFO - No overlap
+2025-06-13 19:09:59,603 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:09:59,603 - INFO - No overlap
+2025-06-13 19:09:59,604 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:09:59,604 - INFO - No overlap
+2025-06-13 19:09:59,605 - INFO - No overlap
+2025-06-13 19:09:59,605 - INFO - No overlap
+2025-06-13 19:09:59,605 - INFO - No overlap
+2025-06-13 19:09:59,605 - INFO - No overlap
+2025-06-13 19:09:59,606 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:09:59,606 - INFO - No overlap
+2025-06-13 19:09:59,607 - INFO - Duplicate entries found for Saturday: 2 times.
+2025-06-13 19:09:59,608 - INFO - No overlap
+2025-06-13 19:09:59,608 - INFO - Duplicate entries found for Saturday: 2 times.
+2025-06-13 19:09:59,609 - INFO - No overlap
+2025-06-13 19:09:59,609 - INFO - Duplicate entries found for Saturday: 3 times.
+2025-06-13 19:09:59,609 - INFO - No overlap
+2025-06-13 19:09:59,610 - INFO - Duplicate entries found for Monday: 4 times.
+2025-06-13 19:09:59,611 - INFO - No overlap
+2025-06-13 19:09:59,612 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:09:59,613 - ERROR - Overlap
+2025-06-13 19:09:59,614 - INFO - Duplicate entries found for Monday: 3 times.
+2025-06-13 19:09:59,615 - INFO - No overlap
+2025-06-13 19:24:59,468 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:24:59,469 - INFO - Overlap
+2025-06-13 19:24:59,469 - INFO - No overlap
+2025-06-13 19:24:59,470 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:24:59,470 - INFO - Overlap
+2025-06-13 19:24:59,471 - INFO - No overlap
+2025-06-13 19:24:59,471 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:24:59,472 - INFO - Overlap
+2025-06-13 19:24:59,472 - INFO - No overlap
+2025-06-13 19:24:59,472 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:24:59,472 - INFO - Overlap
+2025-06-13 19:24:59,473 - INFO - No overlap
+2025-06-13 19:24:59,473 - INFO - No overlap
+2025-06-13 19:24:59,473 - INFO - No overlap
+2025-06-13 19:24:59,473 - INFO - No overlap
+2025-06-13 19:24:59,473 - INFO - No overlap
+2025-06-13 19:24:59,474 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:24:59,474 - INFO - Overlap
+2025-06-13 19:24:59,474 - INFO - No overlap
+2025-06-13 19:24:59,474 - INFO - Duplicate entries found for Saturday: 2 times.
+2025-06-13 19:24:59,475 - INFO - Overlap
+2025-06-13 19:24:59,475 - INFO - No overlap
+2025-06-13 19:24:59,475 - INFO - Duplicate entries found for Saturday: 2 times.
+2025-06-13 19:24:59,476 - INFO - Overlap
+2025-06-13 19:24:59,476 - INFO - No overlap
+2025-06-13 19:24:59,476 - INFO - Duplicate entries found for Saturday: 3 times.
+2025-06-13 19:24:59,476 - INFO - Overlap
+2025-06-13 19:24:59,476 - INFO - No overlap
+2025-06-13 19:24:59,477 - INFO - Duplicate entries found for Monday: 4 times.
+2025-06-13 19:24:59,477 - INFO - Overlap
+2025-06-13 19:24:59,477 - INFO - No overlap
+2025-06-13 19:24:59,478 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:24:59,478 - INFO - Overlap
+2025-06-13 19:24:59,479 - ERROR - Overlap
+2025-06-13 19:24:59,480 - INFO - Duplicate entries found for Monday: 3 times.
+2025-06-13 19:24:59,480 - INFO - Overlap
+2025-06-13 19:24:59,480 - INFO - No overlap
+2025-06-13 19:28:05,407 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:28:05,407 - INFO - Overlap
+2025-06-13 19:28:05,407 - INFO - No overlap
+2025-06-13 19:28:05,407 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:28:05,408 - INFO - Overlap
+2025-06-13 19:28:05,408 - INFO - No overlap
+2025-06-13 19:28:05,409 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:28:05,409 - INFO - Overlap
+2025-06-13 19:28:05,410 - INFO - No overlap
+2025-06-13 19:28:05,410 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:28:05,410 - INFO - Overlap
+2025-06-13 19:28:05,411 - INFO - No overlap
+2025-06-13 19:28:05,411 - INFO - No overlap
+2025-06-13 19:28:05,411 - INFO - No overlap
+2025-06-13 19:28:05,411 - INFO - Duplicate entries found for Friday: 2 times.
+2025-06-13 19:28:05,412 - INFO - Overlap
+2025-06-13 19:28:05,412 - INFO - No overlap
+2025-06-13 19:28:05,412 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:28:05,412 - INFO - Overlap
+2025-06-13 19:28:05,413 - INFO - No overlap
+2025-06-13 19:28:05,413 - INFO - Duplicate entries found for Saturday: 2 times.
+2025-06-13 19:28:05,413 - INFO - Overlap
+2025-06-13 19:28:05,414 - INFO - No overlap
+2025-06-13 19:28:05,414 - INFO - Duplicate entries found for Saturday: 2 times.
+2025-06-13 19:28:05,415 - INFO - Overlap
+2025-06-13 19:28:05,415 - INFO - No overlap
+2025-06-13 19:28:05,416 - INFO - Duplicate entries found for Saturday: 3 times.
+2025-06-13 19:28:05,416 - INFO - Overlap
+2025-06-13 19:28:05,416 - INFO - No overlap
+2025-06-13 19:28:05,418 - INFO - Duplicate entries found for Monday: 4 times.
+2025-06-13 19:28:05,418 - INFO - Overlap
+2025-06-13 19:28:05,419 - INFO - No overlap
+2025-06-13 19:28:05,420 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:28:05,420 - INFO - Overlap
+2025-06-13 19:28:05,420 - ERROR - Overlap
+2025-06-13 19:28:05,421 - INFO - Duplicate entries found for Monday: 3 times.
+2025-06-13 19:28:05,421 - INFO - Overlap
+2025-06-13 19:28:05,421 - INFO - No overlap
+2025-06-13 19:32:41,893 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:32:41,893 - INFO - Overlap
+2025-06-13 19:32:41,894 - INFO - No overlap
+2025-06-13 19:32:41,894 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:32:41,895 - INFO - Overlap
+2025-06-13 19:32:41,895 - INFO - No overlap
+2025-06-13 19:32:41,897 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:32:41,897 - INFO - Overlap
+2025-06-13 19:32:41,897 - INFO - No overlap
+2025-06-13 19:32:41,898 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:32:41,898 - INFO - Overlap
+2025-06-13 19:32:41,898 - INFO - No overlap
+2025-06-13 19:32:41,898 - INFO - No overlap
+2025-06-13 19:32:41,899 - INFO - No overlap
+2025-06-13 19:32:41,899 - INFO - No overlap
+2025-06-13 19:32:41,900 - INFO - No overlap
+2025-06-13 19:32:41,900 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:32:41,901 - INFO - Overlap
+2025-06-13 19:32:41,901 - INFO - No overlap
+2025-06-13 19:32:41,901 - INFO - Duplicate entries found for Saturday: 2 times.
+2025-06-13 19:32:41,902 - INFO - Overlap
+2025-06-13 19:32:41,902 - INFO - No overlap
+2025-06-13 19:32:41,902 - INFO - Duplicate entries found for Saturday: 2 times.
+2025-06-13 19:32:41,903 - INFO - Overlap
+2025-06-13 19:32:41,903 - INFO - No overlap
+2025-06-13 19:32:41,904 - INFO - Duplicate entries found for Saturday: 3 times.
+2025-06-13 19:32:41,904 - INFO - Overlap
+2025-06-13 19:32:41,905 - INFO - No overlap
+2025-06-13 19:32:41,905 - INFO - Duplicate entries found for Monday: 4 times.
+2025-06-13 19:32:41,906 - INFO - Overlap
+2025-06-13 19:32:41,907 - INFO - No overlap
+2025-06-13 19:32:41,907 - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:32:41,907 - INFO - Overlap
+2025-06-13 19:32:41,907 - ERROR - Overlap
+2025-06-13 19:32:41,908 - INFO - Duplicate entries found for Monday: 3 times.
+2025-06-13 19:32:41,908 - INFO - Overlap
+2025-06-13 19:32:41,908 - INFO - No overlap
+2025-06-13 19:35:52,459 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:35:52,463 - overlapping_days - INFO - Overlap
+2025-06-13 19:35:52,463 - overlapping_time - INFO - No overlap
+2025-06-13 19:35:52,464 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:35:52,464 - overlapping_days - INFO - Overlap
+2025-06-13 19:35:52,464 - overlapping_time - INFO - No overlap
+2025-06-13 19:35:52,467 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:35:52,467 - overlapping_days - INFO - Overlap
+2025-06-13 19:35:52,468 - overlapping_time - INFO - No overlap
+2025-06-13 19:35:52,469 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:35:52,469 - overlapping_days - INFO - Overlap
+2025-06-13 19:35:52,469 - overlapping_time - INFO - No overlap
+2025-06-13 19:35:52,470 - overlapping_days - INFO - No overlap
+2025-06-13 19:35:52,471 - overlapping_time - INFO - No overlap
+2025-06-13 19:35:52,471 - overlapping_days - INFO - No overlap
+2025-06-13 19:35:52,472 - overlapping_time - INFO - No overlap
+2025-06-13 19:35:52,472 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:35:52,473 - overlapping_days - INFO - Overlap
+2025-06-13 19:35:52,473 - overlapping_time - INFO - No overlap
+2025-06-13 19:35:52,474 - overlapping_days - INFO - Duplicate entries found for Saturday: 2 times.
+2025-06-13 19:35:52,475 - overlapping_days - INFO - Overlap
+2025-06-13 19:35:52,475 - overlapping_time - INFO - No overlap
+2025-06-13 19:35:52,477 - overlapping_days - INFO - Duplicate entries found for Saturday: 2 times.
+2025-06-13 19:35:52,477 - overlapping_days - INFO - Overlap
+2025-06-13 19:35:52,477 - overlapping_time - INFO - No overlap
+2025-06-13 19:35:52,477 - overlapping_days - INFO - Duplicate entries found for Saturday: 3 times.
+2025-06-13 19:35:52,477 - overlapping_days - INFO - Overlap
+2025-06-13 19:35:52,478 - overlapping_time - INFO - No overlap
+2025-06-13 19:35:52,479 - overlapping_days - INFO - Duplicate entries found for Monday: 4 times.
+2025-06-13 19:35:52,479 - overlapping_days - INFO - Overlap
+2025-06-13 19:35:52,480 - overlapping_time - INFO - No overlap
+2025-06-13 19:35:52,481 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-13 19:35:52,482 - overlapping_days - INFO - Overlap
+2025-06-13 19:35:52,482 - overlapping_time - ERROR - Overlap
+2025-06-13 19:35:52,482 - overlapping_days - INFO - Duplicate entries found for Monday: 3 times.
+2025-06-13 19:35:52,483 - overlapping_days - INFO - Overlap
+2025-06-13 19:35:52,483 - overlapping_time - INFO - No overlap
+2025-06-16 09:33:23,320 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-16 09:33:23,323 - overlapping_days - INFO - Overlap
+2025-06-16 09:33:23,324 - overlapping_time - INFO - No overlap
+2025-06-16 09:33:23,325 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-16 09:33:23,326 - overlapping_days - INFO - Overlap
+2025-06-16 09:33:23,327 - overlapping_time - INFO - No overlap
+2025-06-16 09:33:23,353 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-16 09:33:23,354 - overlapping_days - INFO - Overlap
+2025-06-16 09:33:23,354 - overlapping_time - INFO - No overlap
+2025-06-16 09:33:23,356 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-16 09:33:23,356 - overlapping_days - INFO - Overlap
+2025-06-16 09:33:23,357 - overlapping_time - INFO - No overlap
+2025-06-16 09:33:23,358 - overlapping_days - INFO - No overlap
+2025-06-16 09:33:23,359 - overlapping_time - INFO - No overlap
+2025-06-16 09:33:23,360 - overlapping_days - INFO - Duplicate entries found for Friday: 2 times.
+2025-06-16 09:33:23,360 - overlapping_days - INFO - Overlap
+2025-06-16 09:33:23,361 - overlapping_time - INFO - No overlap
+2025-06-16 09:33:23,363 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-16 09:33:23,364 - overlapping_days - INFO - Overlap
+2025-06-16 09:33:23,365 - overlapping_time - INFO - No overlap
+2025-06-16 09:33:23,366 - overlapping_days - INFO - Duplicate entries found for Saturday: 2 times.
+2025-06-16 09:33:23,366 - overlapping_days - INFO - Overlap
+2025-06-16 09:33:23,367 - overlapping_time - INFO - No overlap
+2025-06-16 09:33:23,369 - overlapping_days - INFO - Duplicate entries found for Saturday: 2 times.
+2025-06-16 09:33:23,369 - overlapping_days - INFO - Overlap
+2025-06-16 09:33:23,369 - overlapping_time - INFO - No overlap
+2025-06-16 09:33:23,370 - overlapping_days - INFO - Duplicate entries found for Saturday: 3 times.
+2025-06-16 09:33:23,371 - overlapping_days - INFO - Overlap
+2025-06-16 09:33:23,373 - overlapping_time - INFO - No overlap
+2025-06-16 09:33:23,375 - overlapping_days - INFO - Duplicate entries found for Monday: 4 times.
+2025-06-16 09:33:23,376 - overlapping_days - INFO - Overlap
+2025-06-16 09:33:23,376 - overlapping_time - INFO - No overlap
+2025-06-16 09:33:23,378 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-16 09:33:23,379 - overlapping_days - INFO - Overlap
+2025-06-16 09:33:23,379 - overlapping_time - ERROR - Overlap
+2025-06-16 09:33:23,381 - overlapping_days - INFO - Duplicate entries found for Monday: 3 times.
+2025-06-16 09:33:23,381 - overlapping_days - INFO - Overlap
+2025-06-16 09:33:23,381 - overlapping_time - INFO - No overlap
+2025-06-16 09:36:39,400 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-16 09:36:39,401 - overlapping_days - INFO - Overlap
+2025-06-16 09:36:39,401 - overlapping_time - INFO - No overlap
+2025-06-16 09:36:39,402 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-16 09:36:39,403 - overlapping_days - INFO - Overlap
+2025-06-16 09:36:39,404 - overlapping_time - INFO - No overlap
+2025-06-16 09:36:39,405 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-16 09:36:39,406 - overlapping_days - INFO - Overlap
+2025-06-16 09:36:39,406 - overlapping_time - INFO - No overlap
+2025-06-16 09:36:39,407 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-16 09:36:39,408 - overlapping_days - INFO - Overlap
+2025-06-16 09:36:39,409 - overlapping_time - INFO - No overlap
+2025-06-16 09:36:39,410 - overlapping_days - INFO - No overlap
+2025-06-16 09:36:39,410 - overlapping_time - INFO - No overlap
+2025-06-16 09:36:39,411 - overlapping_days - INFO - No overlap
+2025-06-16 09:36:39,411 - overlapping_time - INFO - No overlap
+2025-06-16 09:36:39,412 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-16 09:36:39,412 - overlapping_days - INFO - Overlap
+2025-06-16 09:36:39,412 - overlapping_time - INFO - No overlap
+2025-06-16 09:36:39,413 - overlapping_days - INFO - Duplicate entries found for Saturday: 2 times.
+2025-06-16 09:36:39,414 - overlapping_days - INFO - Overlap
+2025-06-16 09:36:39,414 - overlapping_time - INFO - No overlap
+2025-06-16 09:36:39,415 - overlapping_days - INFO - Duplicate entries found for Saturday: 2 times.
+2025-06-16 09:36:39,415 - overlapping_days - INFO - Overlap
+2025-06-16 09:36:39,415 - overlapping_time - INFO - No overlap
+2025-06-16 09:36:39,416 - overlapping_days - INFO - Duplicate entries found for Saturday: 3 times.
+2025-06-16 09:36:39,417 - overlapping_days - INFO - Overlap
+2025-06-16 09:36:39,417 - overlapping_time - INFO - No overlap
+2025-06-16 09:36:39,418 - overlapping_days - INFO - Duplicate entries found for Monday: 4 times.
+2025-06-16 09:36:39,418 - overlapping_days - INFO - Overlap
+2025-06-16 09:36:39,419 - overlapping_time - INFO - No overlap
+2025-06-16 09:36:39,420 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-16 09:36:39,421 - overlapping_days - INFO - Overlap
+2025-06-16 09:36:39,421 - overlapping_time - ERROR - Overlap
+2025-06-16 09:36:39,422 - overlapping_days - INFO - Duplicate entries found for Monday: 3 times.
+2025-06-16 09:36:39,422 - overlapping_days - INFO - Overlap
+2025-06-16 09:36:39,423 - overlapping_time - INFO - No overlap
+2025-06-16 09:37:34,509 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-16 09:37:34,509 - overlapping_days - INFO - Overlap
+2025-06-16 09:37:34,510 - overlapping_time - INFO - No overlap
+2025-06-16 09:37:34,512 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-16 09:37:34,512 - overlapping_days - INFO - Overlap
+2025-06-16 09:37:34,513 - overlapping_time - INFO - No overlap
+2025-06-16 09:37:34,513 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-16 09:37:34,514 - overlapping_days - INFO - Overlap
+2025-06-16 09:37:34,515 - overlapping_time - INFO - No overlap
+2025-06-16 09:37:34,515 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-16 09:37:34,516 - overlapping_days - INFO - Overlap
+2025-06-16 09:37:34,517 - overlapping_time - INFO - No overlap
+2025-06-16 09:37:34,519 - overlapping_days - INFO - No overlap
+2025-06-16 09:37:34,519 - overlapping_time - INFO - No overlap
+2025-06-16 09:37:34,520 - overlapping_days - INFO - No overlap
+2025-06-16 09:37:34,520 - overlapping_time - INFO - No overlap
+2025-06-16 09:37:34,524 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-16 09:37:34,524 - overlapping_days - INFO - Overlap
+2025-06-16 09:37:34,525 - overlapping_time - INFO - No overlap
+2025-06-16 09:37:34,526 - overlapping_days - INFO - Duplicate entries found for Saturday: 2 times.
+2025-06-16 09:37:34,528 - overlapping_days - INFO - Overlap
+2025-06-16 09:37:34,528 - overlapping_time - INFO - No overlap
+2025-06-16 09:37:34,532 - overlapping_days - INFO - Duplicate entries found for Saturday: 2 times.
+2025-06-16 09:37:34,534 - overlapping_days - INFO - Overlap
+2025-06-16 09:37:34,535 - overlapping_time - INFO - No overlap
+2025-06-16 09:37:34,536 - overlapping_days - INFO - Duplicate entries found for Saturday: 3 times.
+2025-06-16 09:37:34,536 - overlapping_days - INFO - Overlap
+2025-06-16 09:37:34,537 - overlapping_time - INFO - No overlap
+2025-06-16 09:37:34,538 - overlapping_days - INFO - Duplicate entries found for Monday: 4 times.
+2025-06-16 09:37:34,538 - overlapping_days - INFO - Overlap
+2025-06-16 09:37:34,539 - overlapping_time - INFO - No overlap
+2025-06-16 09:37:34,539 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-16 09:37:34,540 - overlapping_days - INFO - Overlap
+2025-06-16 09:37:34,541 - overlapping_time - ERROR - Overlap
+2025-06-16 09:37:34,542 - overlapping_days - INFO - Duplicate entries found for Monday: 3 times.
+2025-06-16 09:37:34,542 - overlapping_days - INFO - Overlap
+2025-06-16 09:37:34,542 - overlapping_time - INFO - No overlap
+2025-06-16 09:42:22,840 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-16 09:42:22,840 - overlapping_days - INFO - Overlap
+2025-06-16 09:42:22,844 - overlapping_time - INFO - No overlap
+2025-06-16 09:42:22,846 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-16 09:42:22,846 - overlapping_days - INFO - Overlap
+2025-06-16 09:42:22,846 - overlapping_time - INFO - No overlap
+2025-06-16 09:42:22,847 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-16 09:42:22,847 - overlapping_days - INFO - Overlap
+2025-06-16 09:42:22,848 - overlapping_time - INFO - No overlap
+2025-06-16 09:42:22,848 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-16 09:42:22,849 - overlapping_days - INFO - Overlap
+2025-06-16 09:42:22,849 - overlapping_time - INFO - No overlap
+2025-06-16 09:42:22,850 - overlapping_days - INFO - No overlap
+2025-06-16 09:42:22,851 - overlapping_time - INFO - No overlap
+2025-06-16 09:42:22,852 - overlapping_days - INFO - Duplicate entries found for Friday: 2 times.
+2025-06-16 09:42:22,852 - overlapping_days - INFO - Overlap
+2025-06-16 09:42:22,853 - overlapping_time - INFO - No overlap
+2025-06-16 09:42:22,854 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-16 09:42:22,854 - overlapping_days - INFO - Overlap
+2025-06-16 09:42:22,854 - overlapping_time - INFO - No overlap
+2025-06-16 09:42:22,856 - overlapping_days - INFO - Duplicate entries found for Saturday: 2 times.
+2025-06-16 09:42:22,856 - overlapping_days - INFO - Overlap
+2025-06-16 09:42:22,856 - overlapping_time - INFO - No overlap
+2025-06-16 09:42:22,857 - overlapping_days - INFO - Duplicate entries found for Saturday: 2 times.
+2025-06-16 09:42:22,858 - overlapping_days - INFO - Overlap
+2025-06-16 09:42:22,859 - overlapping_time - INFO - No overlap
+2025-06-16 09:42:22,861 - overlapping_days - INFO - Duplicate entries found for Saturday: 3 times.
+2025-06-16 09:42:22,861 - overlapping_days - INFO - Overlap
+2025-06-16 09:42:22,862 - overlapping_time - INFO - No overlap
+2025-06-16 09:42:22,863 - overlapping_days - INFO - Duplicate entries found for Monday: 4 times.
+2025-06-16 09:42:22,864 - overlapping_days - INFO - Overlap
+2025-06-16 09:42:22,864 - overlapping_time - INFO - No overlap
+2025-06-16 09:42:22,865 - overlapping_days - INFO - Duplicate entries found for Monday: 2 times.
+2025-06-16 09:42:22,865 - overlapping_days - INFO - Overlap
+2025-06-16 09:42:22,866 - overlapping_time - ERROR - Overlap on Monday
+2025-06-16 09:42:22,867 - overlapping_days - INFO - Duplicate entries found for Monday: 3 times.
+2025-06-16 09:42:22,867 - overlapping_days - INFO - Overlap
+2025-06-16 09:42:22,868 - overlapping_time - INFO - No overlap
+2025-06-16 12:53:04,543 - overlapping - ERROR - Overlap
+2025-06-16 12:53:04,544 - overlapping - INFO - no overlap
+2025-06-16 12:53:04,545 - overlapping - INFO - no overlap
+2025-06-16 12:53:04,546 - overlapping - INFO - no overlap
+2025-06-16 12:53:04,547 - overlapping - INFO - no overlap
+2025-06-16 12:53:04,548 - overlapping - INFO - no overlap
+2025-06-16 12:53:04,548 - overlapping - ERROR - Overlap
+2025-06-16 12:53:04,549 - overlapping - ERROR - Overlap
+2025-06-16 12:53:04,550 - overlapping - ERROR - Overlap
+2025-06-16 12:53:04,550 - overlapping - INFO - no overlap
+2025-06-16 12:53:04,551 - overlapping - INFO - no overlap
+2025-06-16 12:53:04,551 - overlapping - ERROR - Overlap
+2025-06-16 12:53:04,552 - overlapping - INFO - no overlap
+2025-06-16 13:48:42,938 - overlapping - ERROR - Overlap
+2025-06-16 13:48:42,939 - overlapping - INFO - no overlap
+2025-06-16 13:48:42,940 - overlapping - INFO - no overlap
+2025-06-16 13:48:42,941 - overlapping - INFO - no overlap
+2025-06-16 13:48:42,943 - overlapping - INFO - no overlap
+2025-06-16 13:48:42,943 - overlapping - INFO - no overlap
+2025-06-16 13:48:42,944 - overlapping - ERROR - Overlap
+2025-06-16 13:48:42,946 - overlapping - ERROR - Overlap
+2025-06-16 13:48:42,946 - overlapping - ERROR - Overlap
+2025-06-16 13:48:42,946 - overlapping - INFO - no overlap
+2025-06-16 13:48:42,947 - overlapping - INFO - no overlap
+2025-06-16 13:48:42,947 - overlapping - ERROR - Overlap
+2025-06-16 13:48:42,948 - overlapping - INFO - no overlap
+2025-06-16 13:50:54,126 - overlapping - ERROR - Overlap
+2025-06-16 13:50:54,126 - overlapping - INFO - no overlap
+2025-06-16 13:50:54,127 - overlapping - INFO - no overlap
+2025-06-16 13:50:54,127 - overlapping - INFO - no overlap
+2025-06-16 13:50:54,129 - overlapping - INFO - no overlap
+2025-06-16 13:50:54,130 - overlapping - INFO - no overlap
+2025-06-16 13:50:54,130 - overlapping - ERROR - Overlap
+2025-06-16 13:50:54,133 - overlapping - ERROR - Overlap
+2025-06-16 13:50:54,133 - overlapping - ERROR - Overlap
+2025-06-16 13:50:54,134 - overlapping - INFO - no overlap
+2025-06-16 13:50:54,134 - overlapping - INFO - no overlap
+2025-06-16 13:50:54,135 - overlapping - ERROR - Overlap
+2025-06-16 13:50:54,136 - overlapping - INFO - no overlap
+2025-06-16 13:55:46,046 - overlapping - ERROR - Overlap
+2025-06-16 13:55:46,047 - overlapping - INFO - no overlap
+2025-06-16 13:55:46,048 - overlapping - INFO - no overlap
+2025-06-16 13:55:46,048 - overlapping - ERROR - Overlap
+2025-06-16 13:55:46,049 - overlapping - INFO - no overlap
+2025-06-16 13:55:46,050 - overlapping - INFO - no overlap
+2025-06-16 13:55:46,050 - overlapping - ERROR - Overlap
+2025-06-16 13:55:46,051 - overlapping - ERROR - Overlap
+2025-06-16 13:55:46,052 - overlapping - ERROR - Overlap
+2025-06-16 13:55:46,052 - overlapping - INFO - no overlap
+2025-06-16 13:55:46,054 - overlapping - INFO - no overlap
+2025-06-16 13:55:46,055 - overlapping - ERROR - Overlap
+2025-06-16 13:55:46,056 - overlapping - INFO - no overlap
+2025-06-16 13:55:53,938 - overlapping - ERROR - Overlap
+2025-06-16 13:55:53,940 - overlapping - INFO - no overlap
+2025-06-16 13:55:53,940 - overlapping - INFO - no overlap
+2025-06-16 13:55:53,941 - overlapping - INFO - no overlap
+2025-06-16 13:55:53,942 - overlapping - INFO - no overlap
+2025-06-16 13:55:53,942 - overlapping - INFO - no overlap
+2025-06-16 13:55:53,942 - overlapping - ERROR - Overlap
+2025-06-16 13:55:53,943 - overlapping - ERROR - Overlap
+2025-06-16 13:55:53,943 - overlapping - ERROR - Overlap
+2025-06-16 13:55:53,943 - overlapping - INFO - no overlap
+2025-06-16 13:55:53,944 - overlapping - INFO - no overlap
+2025-06-16 13:55:53,944 - overlapping - ERROR - Overlap
+2025-06-16 13:55:53,944 - overlapping - INFO - no overlap
+2025-06-16 14:09:12,183 - overlapping - ERROR - Overlap
+2025-06-16 14:09:12,185 - overlapping - INFO - no overlap
+2025-06-16 14:09:12,186 - overlapping - INFO - no overlap
+2025-06-16 14:09:12,187 - overlapping - INFO - no overlap
+2025-06-16 14:09:12,187 - overlapping - INFO - no overlap
+2025-06-16 14:09:12,188 - overlapping - INFO - no overlap
+2025-06-16 14:09:12,189 - overlapping - ERROR - Overlap
+2025-06-16 14:09:12,190 - overlapping - ERROR - Overlap
+2025-06-16 14:09:12,190 - overlapping - ERROR - Overlap
+2025-06-16 14:09:12,191 - overlapping - INFO - no overlap
+2025-06-16 14:09:12,192 - overlapping - INFO - no overlap
+2025-06-16 14:09:12,192 - overlapping - ERROR - Overlap
+2025-06-16 14:09:12,193 - overlapping - INFO - no overlap
+2025-06-16 14:09:24,545 - overlapping - ERROR - Overlap
+2025-06-16 14:09:24,546 - overlapping - INFO - no overlap
+2025-06-16 14:09:24,547 - overlapping - INFO - no overlap
+2025-06-16 14:09:24,548 - overlapping - INFO - no overlap
+2025-06-16 14:09:24,549 - overlapping - INFO - no overlap
+2025-06-16 14:09:24,550 - overlapping - INFO - no overlap
+2025-06-16 14:09:24,550 - overlapping - ERROR - Overlap
+2025-06-16 14:09:24,551 - overlapping - ERROR - Overlap
+2025-06-16 14:09:24,551 - overlapping - ERROR - Overlap
+2025-06-16 14:09:24,552 - overlapping - INFO - no overlap
+2025-06-16 14:09:24,553 - overlapping - INFO - no overlap
+2025-06-16 14:09:24,554 - overlapping - ERROR - Overlap
+2025-06-16 14:09:24,555 - overlapping - INFO - no overlap
+2025-06-16 16:00:38,376 - overlapping - ERROR - Overlap
+2025-06-16 16:00:38,376 - overlapping - INFO - no overlap
+2025-06-16 16:00:38,377 - overlapping - INFO - no overlap
+2025-06-16 16:00:38,377 - overlapping - INFO - no overlap
+2025-06-16 16:00:38,378 - overlapping - INFO - no overlap
+2025-06-16 16:00:38,378 - overlapping - INFO - no overlap
+2025-06-16 16:00:38,378 - overlapping - ERROR - Overlap
+2025-06-16 16:00:38,379 - overlapping - ERROR - Overlap
+2025-06-16 16:00:38,379 - overlapping - ERROR - Overlap
+2025-06-16 16:00:38,379 - overlapping - INFO - no overlap
+2025-06-16 16:00:38,379 - overlapping - INFO - no overlap
+2025-06-16 16:00:38,380 - overlapping - ERROR - Overlap
+2025-06-16 16:00:38,380 - overlapping - INFO - no overlap2025-06-18 10:28:20,378 - overlapping - ERROR - Overlap
+2025-06-18 10:28:20,381 - overlapping - INFO - no overlap
+2025-06-18 10:28:20,383 - overlapping - INFO - no overlap
+2025-06-18 10:28:20,385 - overlapping - INFO - no overlap
+2025-06-18 10:28:20,386 - overlapping - INFO - no overlap
+2025-06-18 10:28:20,387 - overlapping - INFO - no overlap
+2025-06-18 10:28:20,388 - overlapping - ERROR - Overlap
+2025-06-18 10:28:20,390 - overlapping - ERROR - Overlap
+2025-06-18 10:28:20,392 - overlapping - ERROR - Overlap
+2025-06-18 10:28:20,393 - overlapping - INFO - no overlap
+2025-06-18 10:28:20,393 - overlapping - INFO - no overlap
+2025-06-18 10:28:20,395 - overlapping - ERROR - Overlap
+2025-06-18 10:28:20,397 - overlapping - INFO - no overlap
+2025-06-18 10:29:23,512 - overlapping - ERROR - Overlap
+2025-06-18 10:29:23,514 - overlapping - INFO - no overlap
+2025-06-18 10:29:23,515 - overlapping - INFO - no overlap
+2025-06-18 10:29:23,518 - overlapping - INFO - no overlap
+2025-06-18 10:29:23,519 - overlapping - INFO - no overlap
+2025-06-18 10:29:23,520 - overlapping - INFO - no overlap
+2025-06-18 10:29:23,521 - overlapping - ERROR - Overlap
+2025-06-18 10:29:23,522 - overlapping - ERROR - Overlap
+2025-06-18 10:29:23,524 - overlapping - ERROR - Overlap
+2025-06-18 10:29:23,525 - overlapping - INFO - no overlap
+2025-06-18 10:29:23,527 - overlapping - INFO - no overlap
+2025-06-18 10:29:23,528 - overlapping - ERROR - Overlap
+2025-06-18 10:29:23,529 - overlapping - INFO - no overlap
+2025-06-18 11:05:00,964 - overlapping - ERROR - Overlap
+2025-06-18 11:05:00,966 - overlapping - INFO - no overlap
+2025-06-18 11:05:00,966 - overlapping - INFO - no overlap
+2025-06-18 11:05:00,967 - overlapping - INFO - no overlap
+2025-06-18 11:05:00,968 - overlapping - INFO - no overlap
+2025-06-18 11:05:00,969 - overlapping - INFO - no overlap
+2025-06-18 11:05:00,970 - overlapping - ERROR - Overlap
+2025-06-18 11:05:00,971 - overlapping - ERROR - Overlap
+2025-06-18 11:05:00,972 - overlapping - ERROR - Overlap
+2025-06-18 11:05:00,973 - overlapping - INFO - no overlap
+2025-06-18 11:05:00,974 - overlapping - INFO - no overlap
+2025-06-18 11:05:00,975 - overlapping - ERROR - Overlap
+2025-06-18 11:05:00,975 - overlapping - INFO - no overlap
+2025-06-18 11:11:10,696 - overlapping - ERROR - Overlap
+2025-06-18 11:11:10,698 - overlapping - INFO - no overlap
+2025-06-18 11:11:10,698 - overlapping - INFO - no overlap
+2025-06-18 11:11:10,699 - overlapping - INFO - no overlap
+2025-06-18 11:11:10,701 - overlapping - INFO - no overlap
+2025-06-18 11:11:10,702 - overlapping - INFO - no overlap
+2025-06-18 11:11:10,703 - overlapping - ERROR - Overlap
+2025-06-18 11:11:10,704 - overlapping - ERROR - Overlap
+2025-06-18 11:11:10,705 - overlapping - ERROR - Overlap
+2025-06-18 11:11:10,706 - overlapping - INFO - no overlap
+2025-06-18 11:11:10,709 - overlapping - INFO - no overlap
+2025-06-18 11:11:10,710 - overlapping - ERROR - Overlap
+2025-06-18 11:11:10,711 - overlapping - INFO - no overlap
+2025-06-18 11:11:53,211 - overlapping - ERROR - Overlap
+2025-06-18 11:11:53,212 - overlapping - INFO - no overlap
+2025-06-18 11:11:53,213 - overlapping - INFO - no overlap
+2025-06-18 11:11:53,214 - overlapping - INFO - no overlap
+2025-06-18 11:11:53,215 - overlapping - INFO - no overlap
+2025-06-18 11:11:53,216 - overlapping - INFO - no overlap
+2025-06-18 11:11:53,218 - overlapping - INFO - no overlap
+2025-06-18 11:11:53,220 - overlapping - ERROR - invalid range
+2025-06-18 11:11:53,222 - overlapping - INFO - no overlap
+2025-06-18 11:11:53,223 - overlapping - ERROR - Overlap
+2025-06-18 11:11:53,224 - overlapping - ERROR - Overlap
+2025-06-18 11:11:53,225 - overlapping - ERROR - Overlap
+2025-06-18 11:11:53,226 - overlapping - INFO - no overlap
+2025-06-18 11:11:53,227 - overlapping - INFO - no overlap
+2025-06-18 11:11:53,228 - overlapping - ERROR - Overlap
+2025-06-18 11:11:53,229 - overlapping - INFO - no overlap
+2025-06-18 11:22:03,999 - overlapping - ERROR - Overlap
+2025-06-18 11:22:04,000 - overlapping - INFO - no overlap
+2025-06-18 11:22:04,000 - overlapping - INFO - no overlap
+2025-06-18 11:22:04,001 - overlapping - INFO - no overlap
+2025-06-18 11:22:04,001 - overlapping - INFO - no overlap
+2025-06-18 11:22:04,001 - overlapping - INFO - no overlap
+2025-06-18 11:22:04,002 - overlapping - INFO - no overlap
+2025-06-18 11:22:04,003 - overlapping - ERROR - invalid range
+2025-06-18 11:22:04,004 - overlapping - INFO - no overlap
+2025-06-18 11:22:04,004 - overlapping - ERROR - Overlap
+2025-06-18 11:22:04,005 - overlapping - ERROR - Overlap
+2025-06-18 11:22:04,005 - overlapping - ERROR - Overlap
+2025-06-18 11:22:04,006 - overlapping - INFO - no overlap
+2025-06-18 11:22:04,006 - overlapping - INFO - no overlap
+2025-06-18 11:22:04,008 - overlapping - ERROR - Overlap
+2025-06-18 11:22:04,009 - overlapping - INFO - no overlap
+2025-06-18 11:22:28,668 - overlapping - ERROR - Overlap
+2025-06-18 11:22:28,669 - overlapping - INFO - no overlap
+2025-06-18 11:22:28,671 - overlapping - INFO - no overlap
+2025-06-18 11:22:28,671 - overlapping - INFO - no overlap
+2025-06-18 11:22:28,672 - overlapping - INFO - no overlap
+2025-06-18 11:22:28,673 - overlapping - INFO - no overlap
+2025-06-18 11:22:28,674 - overlapping - INFO - no overlap
+2025-06-18 11:22:28,675 - overlapping - ERROR - invalid range
+2025-06-18 11:22:28,676 - overlapping - INFO - no overlap
+2025-06-18 11:22:28,677 - overlapping - ERROR - Overlap
+2025-06-18 11:22:28,677 - overlapping - ERROR - Overlap
+2025-06-18 11:22:28,678 - overlapping - ERROR - Overlap
+2025-06-18 11:22:28,678 - overlapping - INFO - no overlap
+2025-06-18 11:22:28,679 - overlapping - INFO - no overlap
+2025-06-18 11:22:28,680 - overlapping - ERROR - Overlap
+2025-06-18 11:22:28,680 - overlapping - INFO - no overlap
+2025-06-18 11:24:02,575 - overlapping - ERROR - Overlap
+2025-06-18 11:24:02,576 - overlapping - INFO - no overlap
+2025-06-18 11:24:02,576 - overlapping - INFO - no overlap
+2025-06-18 11:24:02,577 - overlapping - INFO - no overlap
+2025-06-18 11:24:02,578 - overlapping - INFO - no overlap
+2025-06-18 11:24:02,578 - overlapping - ERROR - empty input
+2025-06-18 11:24:02,580 - overlapping - INFO - no overlap
+2025-06-18 11:24:02,582 - overlapping - ERROR - invalid range
+2025-06-18 11:24:02,584 - overlapping - INFO - no overlap
+2025-06-18 11:24:02,585 - overlapping - ERROR - Overlap
+2025-06-18 11:24:02,586 - overlapping - ERROR - Overlap
+2025-06-18 11:24:02,589 - overlapping - ERROR - Overlap
+2025-06-18 11:24:02,589 - overlapping - INFO - no overlap
+2025-06-18 11:24:02,591 - overlapping - INFO - no overlap
+2025-06-18 11:24:02,592 - overlapping - ERROR - Overlap
+2025-06-18 11:24:02,593 - overlapping - INFO - no overlap
+2025-06-18 11:26:55,038 - overlapping - ERROR - Overlap
+2025-06-18 11:26:55,039 - overlapping - INFO - no overlap
+2025-06-18 11:26:55,040 - overlapping - INFO - no overlap
+2025-06-18 11:26:55,041 - overlapping - INFO - no overlap
+2025-06-18 11:26:55,042 - overlapping - INFO - no overlap
+2025-06-18 11:26:55,043 - overlapping - ERROR - empty input
+2025-06-18 11:26:55,044 - overlapping - INFO - no overlap
+2025-06-18 11:26:55,046 - overlapping - ERROR - invalid range
+2025-06-18 11:26:55,048 - overlapping - INFO - no overlap
+2025-06-18 11:26:55,049 - overlapping - ERROR - Overlap
+2025-06-18 11:26:55,051 - overlapping - ERROR - Overlap
+2025-06-18 11:26:55,052 - overlapping - ERROR - Overlap
+2025-06-18 11:26:55,053 - overlapping - INFO - no overlap
+2025-06-18 11:26:55,054 - overlapping - INFO - no overlap
+2025-06-18 11:26:55,055 - overlapping - ERROR - Overlap
+2025-06-18 11:26:55,056 - overlapping - INFO - no overlap
+2025-06-18 13:40:45,648 - overlapping - ERROR - Overlap
+2025-06-18 13:40:45,649 - overlapping - INFO - no overlap
+2025-06-18 13:40:45,650 - overlapping - INFO - no overlap
+2025-06-18 13:40:45,650 - overlapping - INFO - no overlap
+2025-06-18 13:40:45,651 - overlapping - INFO - no overlap
+2025-06-18 13:40:45,651 - overlapping - ERROR - empty input
+2025-06-18 13:40:45,652 - overlapping - INFO - no overlap
+2025-06-18 13:40:45,655 - overlapping - ERROR - invalid range
+2025-06-18 13:40:45,655 - overlapping - INFO - no overlap
+2025-06-18 13:40:45,656 - overlapping - ERROR - Overlap
+2025-06-18 13:40:45,656 - overlapping - ERROR - Overlap
+2025-06-18 13:40:45,656 - overlapping - ERROR - Overlap
+2025-06-18 13:40:45,657 - overlapping - INFO - no overlap
+2025-06-18 13:40:45,658 - overlapping - INFO - no overlap
+2025-06-18 13:40:45,658 - overlapping - ERROR - Overlap
+2025-06-18 13:40:45,659 - overlapping - INFO - no overlap
+2025-06-18 13:46:12,052 - INFO - Running test: test_overlap_check_1
+2025-06-18 13:46:12,057 - ERROR - Overlap
+2025-06-18 13:46:12,058 - INFO - no overlap
+2025-06-18 13:46:12,059 - INFO - no overlap
+2025-06-18 13:46:12,060 - INFO - no overlap
+2025-06-18 13:46:12,061 - INFO - no overlap
+2025-06-18 13:46:12,061 - ERROR - empty input
+2025-06-18 13:46:12,062 - INFO - no overlap
+2025-06-18 13:46:12,064 - ERROR - invalid range
+2025-06-18 13:46:12,066 - INFO - no overlap
+2025-06-18 13:46:12,067 - ERROR - Overlap
+2025-06-18 13:46:12,068 - ERROR - Overlap
+2025-06-18 13:46:12,068 - ERROR - Overlap
+2025-06-18 13:46:12,069 - INFO - no overlap
+2025-06-18 13:46:12,070 - INFO - no overlap
+2025-06-18 13:46:12,071 - ERROR - Overlap
+2025-06-18 13:46:12,072 - INFO - no overlap
+2025-06-18 13:48:25,406 - INFO - Running test: test_overlap_check_1
+2025-06-18 13:48:25,411 - ERROR - Overlap
+2025-06-18 13:48:25,412 - INFO - Running test: test_overlap_check_10
+2025-06-18 13:48:25,412 - INFO - no overlap
+2025-06-18 13:48:25,413 - INFO - Running test: test_overlap_check_11
+2025-06-18 13:48:25,413 - INFO - no overlap
+2025-06-18 13:48:25,413 - INFO - Running test: test_overlap_check_12
+2025-06-18 13:48:25,413 - INFO - no overlap
+2025-06-18 13:48:25,414 - INFO - Running test: test_overlap_check_13
+2025-06-18 13:48:25,414 - INFO - no overlap
+2025-06-18 13:48:25,414 - INFO - Running test: test_overlap_check_14
+2025-06-18 13:48:25,414 - ERROR - empty input
+2025-06-18 13:48:25,414 - INFO - Running test: test_overlap_check_15
+2025-06-18 13:48:25,414 - INFO - no overlap
+2025-06-18 13:48:25,415 - INFO - Running test: test_overlap_check_16
+2025-06-18 13:48:25,416 - ERROR - invalid range
+2025-06-18 13:48:25,416 - INFO - Running test: test_overlap_check_2
+2025-06-18 13:48:25,417 - INFO - no overlap
+2025-06-18 13:48:25,417 - INFO - Running test: test_overlap_check_3
+2025-06-18 13:48:25,417 - ERROR - Overlap
+2025-06-18 13:48:25,418 - INFO - Running test: test_overlap_check_4
+2025-06-18 13:48:25,418 - ERROR - Overlap
+2025-06-18 13:48:25,419 - INFO - Running test: test_overlap_check_5
+2025-06-18 13:48:25,419 - ERROR - Overlap
+2025-06-18 13:48:25,420 - INFO - Running test: test_overlap_check_6
+2025-06-18 13:48:25,420 - INFO - no overlap
+2025-06-18 13:48:25,420 - INFO - Running test: test_overlap_check_7
+2025-06-18 13:48:25,421 - INFO - no overlap
+2025-06-18 13:48:25,422 - INFO - Running test: test_overlap_check_8
+2025-06-18 13:48:25,422 - ERROR - Overlap
+2025-06-18 13:48:25,422 - INFO - Running test: test_overlap_check_9
+2025-06-18 13:48:25,423 - INFO - no overlap
+2025-06-18 13:51:24,139 - INFO - Running test: test_overlap_check_1
+2025-06-18 13:51:24,145 - ERROR - Overlap
+2025-06-18 13:51:24,146 - INFO - Running test: test_overlap_check_10
+2025-06-18 13:51:24,146 - INFO - no overlap
+2025-06-18 13:51:24,147 - INFO - Running test: test_overlap_check_11
+2025-06-18 13:51:24,147 - INFO - no overlap
+2025-06-18 13:51:24,148 - INFO - Running test: test_overlap_check_12
+2025-06-18 13:51:24,148 - INFO - no overlap
+2025-06-18 13:51:24,149 - INFO - Running test: test_overlap_check_13
+2025-06-18 13:51:24,149 - INFO - no overlap
+2025-06-18 13:51:24,150 - INFO - Running test: test_overlap_check_14
+2025-06-18 13:51:24,151 - ERROR - invalid input
+2025-06-18 13:51:24,151 - INFO - Running test: test_overlap_check_15
+2025-06-18 13:51:24,152 - ERROR - invalid input
+2025-06-18 13:51:24,153 - INFO - Running test: test_overlap_check_16
+2025-06-18 13:51:24,154 - ERROR - invalid range
+2025-06-18 13:51:24,155 - INFO - Running test: test_overlap_check_2
+2025-06-18 13:51:24,156 - INFO - no overlap
+2025-06-18 13:51:24,156 - INFO - Running test: test_overlap_check_3
+2025-06-18 13:51:24,157 - ERROR - Overlap
+2025-06-18 13:51:24,158 - INFO - Running test: test_overlap_check_4
+2025-06-18 13:51:24,159 - ERROR - Overlap
+2025-06-18 13:51:24,161 - INFO - Running test: test_overlap_check_5
+2025-06-18 13:51:24,161 - ERROR - Overlap
+2025-06-18 13:51:24,162 - INFO - Running test: test_overlap_check_6
+2025-06-18 13:51:24,162 - INFO - no overlap
+2025-06-18 13:51:24,163 - INFO - Running test: test_overlap_check_7
+2025-06-18 13:51:24,164 - INFO - no overlap
+2025-06-18 13:51:24,166 - INFO - Running test: test_overlap_check_8
+2025-06-18 13:51:24,166 - ERROR - Overlap
+2025-06-18 13:51:24,167 - INFO - Running test: test_overlap_check_9
+2025-06-18 13:51:24,167 - INFO - no overlap
+2025-06-18 14:31:47,806 - INFO - Running test: test_overlap_check_1
+2025-06-18 14:31:47,812 - ERROR - Overlap
+2025-06-18 14:31:47,814 - INFO - Running test: test_overlap_check_10
+2025-06-18 14:31:47,815 - INFO - no overlap
+2025-06-18 14:31:47,816 - INFO - Running test: test_overlap_check_11
+2025-06-18 14:31:47,817 - INFO - no overlap
+2025-06-18 14:31:47,818 - INFO - Running test: test_overlap_check_12
+2025-06-18 14:31:47,819 - INFO - no overlap
+2025-06-18 14:31:47,820 - INFO - Running test: test_overlap_check_13
+2025-06-18 14:31:47,821 - ERROR - invalid format
+2025-06-18 14:31:47,823 - INFO - Running test: test_overlap_check_14
+2025-06-18 14:31:47,824 - ERROR - invalid input
+2025-06-18 14:31:47,825 - INFO - Running test: test_overlap_check_15
+2025-06-18 14:31:47,826 - ERROR - invalid input
+2025-06-18 14:31:47,827 - INFO - Running test: test_overlap_check_16
+2025-06-18 14:31:47,828 - ERROR - invalid range
+2025-06-18 14:31:47,830 - INFO - Running test: test_overlap_check_2
+2025-06-18 14:31:47,831 - INFO - no overlap
+2025-06-18 14:31:47,833 - INFO - Running test: test_overlap_check_3
+2025-06-18 14:31:47,834 - ERROR - Overlap
+2025-06-18 14:31:47,835 - INFO - Running test: test_overlap_check_4
+2025-06-18 14:31:47,836 - ERROR - Overlap
+2025-06-18 14:31:47,836 - INFO - Running test: test_overlap_check_5
+2025-06-18 14:31:47,838 - ERROR - Overlap
+2025-06-18 14:31:47,839 - INFO - Running test: test_overlap_check_6
+2025-06-18 14:31:47,839 - INFO - no overlap
+2025-06-18 14:31:47,840 - INFO - Running test: test_overlap_check_7
+2025-06-18 14:31:47,841 - INFO - no overlap
+2025-06-18 14:31:47,843 - INFO - Running test: test_overlap_check_8
+2025-06-18 14:31:47,844 - ERROR - Overlap
+2025-06-18 14:31:47,845 - INFO - Running test: test_overlap_check_9
+2025-06-18 14:31:47,845 - INFO - no overlap
+2025-06-18 14:35:06,286 - INFO - Running test: test_overlap_check_1
+2025-06-18 14:35:06,289 - INFO - Running test: test_overlap_check_10
+2025-06-18 14:35:06,291 - INFO - Running test: test_overlap_check_11
+2025-06-18 14:35:06,293 - INFO - Running test: test_overlap_check_12
+2025-06-18 14:35:06,295 - INFO - Running test: test_overlap_check_13
+2025-06-18 14:35:06,297 - INFO - Running test: test_overlap_check_14
+2025-06-18 14:35:06,297 - ERROR - invalid input
+2025-06-18 14:35:06,299 - INFO - Running test: test_overlap_check_15
+2025-06-18 14:35:06,300 - ERROR - invalid input
+2025-06-18 14:35:06,301 - INFO - Running test: test_overlap_check_16
+2025-06-18 14:35:06,302 - INFO - Running test: test_overlap_check_2
+2025-06-18 14:35:06,304 - INFO - Running test: test_overlap_check_3
+2025-06-18 14:35:06,307 - INFO - Running test: test_overlap_check_4
+2025-06-18 14:35:06,309 - INFO - Running test: test_overlap_check_5
+2025-06-18 14:35:06,312 - INFO - Running test: test_overlap_check_6
+2025-06-18 14:35:06,314 - INFO - Running test: test_overlap_check_7
+2025-06-18 14:35:06,316 - INFO - Running test: test_overlap_check_8
+2025-06-18 14:35:06,318 - INFO - Running test: test_overlap_check_9
+2025-06-18 14:36:14,677 - INFO - Running test: test_overlap_check_1
+2025-06-18 14:36:14,680 - INFO - Running test: test_overlap_check_10
+2025-06-18 14:36:14,682 - INFO - Running test: test_overlap_check_11
+2025-06-18 14:36:14,685 - INFO - Running test: test_overlap_check_12
+2025-06-18 14:36:14,687 - INFO - Running test: test_overlap_check_13
+2025-06-18 14:36:14,689 - INFO - Running test: test_overlap_check_14
+2025-06-18 14:36:14,690 - ERROR - invalid input
+2025-06-18 14:36:14,692 - INFO - Running test: test_overlap_check_15
+2025-06-18 14:36:14,693 - ERROR - invalid input
+2025-06-18 14:36:14,694 - INFO - Running test: test_overlap_check_16
+2025-06-18 14:36:14,696 - INFO - Running test: test_overlap_check_2
+2025-06-18 14:36:14,698 - INFO - Running test: test_overlap_check_3
+2025-06-18 14:36:14,704 - INFO - Running test: test_overlap_check_4
+2025-06-18 14:36:14,705 - INFO - Running test: test_overlap_check_5
+2025-06-18 14:36:14,708 - INFO - Running test: test_overlap_check_6
+2025-06-18 14:36:14,710 - INFO - Running test: test_overlap_check_7
+2025-06-18 14:36:14,713 - INFO - Running test: test_overlap_check_8
+2025-06-18 14:36:14,715 - INFO - Running test: test_overlap_check_9
+2025-06-18 14:44:40,360 - INFO - Running test: test_overlap_check_1
+2025-06-18 14:44:40,364 - INFO - Running test: test_overlap_check_10
+2025-06-18 14:44:40,365 - INFO - Running test: test_overlap_check_11
+2025-06-18 14:44:40,366 - INFO - Running test: test_overlap_check_12
+2025-06-18 14:44:40,367 - INFO - Running test: test_overlap_check_13
+2025-06-18 14:44:40,368 - INFO - Running test: test_overlap_check_14
+2025-06-18 14:44:40,369 - ERROR - invalid input
+2025-06-18 14:44:40,369 - INFO - Running test: test_overlap_check_15
+2025-06-18 14:44:40,370 - ERROR - invalid input
+2025-06-18 14:44:40,371 - INFO - Running test: test_overlap_check_16
+2025-06-18 14:44:40,372 - INFO - Running test: test_overlap_check_2
+2025-06-18 14:44:40,373 - INFO - Running test: test_overlap_check_3
+2025-06-18 14:44:40,374 - INFO - Running test: test_overlap_check_4
+2025-06-18 14:44:40,375 - INFO - Running test: test_overlap_check_5
+2025-06-18 14:44:40,376 - INFO - Running test: test_overlap_check_6
+2025-06-18 14:44:40,377 - INFO - Running test: test_overlap_check_7
+2025-06-18 14:44:40,379 - INFO - Running test: test_overlap_check_8
+2025-06-18 14:44:40,380 - INFO - Running test: test_overlap_check_9
+2025-06-18 14:47:48,009 - INFO - Running test: test_overlap_check_1
+2025-06-18 14:47:48,010 - ERROR - Overlap
+2025-06-18 14:47:48,011 - INFO - Running test: test_overlap_check_10
+2025-06-18 14:47:48,012 - INFO - no overlap
+2025-06-18 14:47:48,012 - INFO - Running test: test_overlap_check_11
+2025-06-18 14:47:48,013 - INFO - no overlap
+2025-06-18 14:47:48,014 - INFO - Running test: test_overlap_check_12
+2025-06-18 14:47:48,014 - INFO - no overlap
+2025-06-18 14:47:48,015 - INFO - Running test: test_overlap_check_13
+2025-06-18 14:47:48,016 - ERROR - invalid range
+2025-06-18 14:47:48,018 - INFO - Running test: test_overlap_check_14
+2025-06-18 14:47:48,018 - ERROR - invalid input
+2025-06-18 14:47:48,019 - INFO - Running test: test_overlap_check_15
+2025-06-18 14:47:48,019 - ERROR - invalid input
+2025-06-18 14:47:48,020 - INFO - Running test: test_overlap_check_16
+2025-06-18 14:47:48,021 - ERROR - invalid range
+2025-06-18 14:47:48,023 - INFO - Running test: test_overlap_check_2
+2025-06-18 14:47:48,023 - INFO - no overlap
+2025-06-18 14:47:48,024 - INFO - Running test: test_overlap_check_3
+2025-06-18 14:47:48,025 - ERROR - Overlap
+2025-06-18 14:47:48,026 - INFO - Running test: test_overlap_check_4
+2025-06-18 14:47:48,026 - INFO - no overlap
+2025-06-18 14:47:48,028 - INFO - Running test: test_overlap_check_5
+2025-06-18 14:47:48,028 - ERROR - Overlap
+2025-06-18 14:47:48,030 - INFO - Running test: test_overlap_check_6
+2025-06-18 14:47:48,030 - INFO - no overlap
+2025-06-18 14:47:48,031 - INFO - Running test: test_overlap_check_7
+2025-06-18 14:47:48,032 - INFO - no overlap
+2025-06-18 14:47:48,032 - INFO - Running test: test_overlap_check_8
+2025-06-18 14:47:48,033 - ERROR - Overlap
+2025-06-18 14:47:48,034 - INFO - Running test: test_overlap_check_9
+2025-06-18 14:47:48,034 - INFO - no overlap
+2025-06-18 15:03:32,323 - INFO - Running test: test_overlap_check_1
+2025-06-18 15:03:32,330 - ERROR - Overlap
+2025-06-18 15:03:32,331 - INFO - Running test: test_overlap_check_10
+2025-06-18 15:03:32,331 - INFO - no overlap
+2025-06-18 15:03:32,333 - INFO - Running test: test_overlap_check_11
+2025-06-18 15:03:32,333 - INFO - no overlap
+2025-06-18 15:03:32,334 - INFO - Running test: test_overlap_check_12
+2025-06-18 15:03:32,335 - INFO - no overlap
+2025-06-18 15:03:32,335 - INFO - Running test: test_overlap_check_13
+2025-06-18 15:03:32,336 - ERROR - invalid format
+2025-06-18 15:03:32,339 - INFO - Running test: test_overlap_check_14
+2025-06-18 15:03:32,339 - ERROR - invalid input
+2025-06-18 15:03:32,340 - INFO - Running test: test_overlap_check_15
+2025-06-18 15:03:32,340 - ERROR - invalid input
+2025-06-18 15:03:32,341 - INFO - Running test: test_overlap_check_16
+2025-06-18 15:03:32,343 - ERROR - invalid range
+2025-06-18 15:03:32,345 - INFO - Running test: test_overlap_check_2
+2025-06-18 15:03:32,346 - INFO - no overlap
+2025-06-18 15:03:32,347 - INFO - Running test: test_overlap_check_3
+2025-06-18 15:03:32,348 - ERROR - Overlap
+2025-06-18 15:03:32,349 - INFO - Running test: test_overlap_check_4
+2025-06-18 15:03:32,350 - ERROR - Overlap
+2025-06-18 15:03:32,351 - INFO - Running test: test_overlap_check_5
+2025-06-18 15:03:32,351 - ERROR - Overlap
+2025-06-18 15:03:32,354 - INFO - Running test: test_overlap_check_6
+2025-06-18 15:03:32,355 - INFO - no overlap
+2025-06-18 15:03:32,355 - INFO - Running test: test_overlap_check_7
+2025-06-18 15:03:32,356 - INFO - no overlap
+2025-06-18 15:03:32,357 - INFO - Running test: test_overlap_check_8
+2025-06-18 15:03:32,357 - ERROR - Overlap
+2025-06-18 15:03:32,358 - INFO - Running test: test_overlap_check_9
+2025-06-18 15:03:32,358 - INFO - no overlap
+2025-06-18 15:05:00,749 - INFO - Running test: test_overlap_check_1
+2025-06-18 15:05:00,754 - ERROR - Overlap
+2025-06-18 15:05:00,755 - INFO - Running test: test_overlap_check_10
+2025-06-18 15:05:00,756 - INFO - no overlap
+2025-06-18 15:05:00,756 - INFO - Running test: test_overlap_check_11
+2025-06-18 15:05:00,757 - INFO - no overlap
+2025-06-18 15:05:00,757 - INFO - Running test: test_overlap_check_12
+2025-06-18 15:05:00,758 - INFO - no overlap
+2025-06-18 15:05:00,758 - INFO - Running test: test_overlap_check_13
+2025-06-18 15:05:00,759 - INFO - no overlap
+2025-06-18 15:05:00,759 - INFO - Running test: test_overlap_check_14
+2025-06-18 15:05:00,759 - ERROR - invalid input
+2025-06-18 15:05:00,761 - INFO - Running test: test_overlap_check_15
+2025-06-18 15:05:00,761 - ERROR - invalid input
+2025-06-18 15:05:00,761 - INFO - Running test: test_overlap_check_16
+2025-06-18 15:05:00,762 - ERROR - invalid range
+2025-06-18 15:05:00,763 - INFO - Running test: test_overlap_check_2
+2025-06-18 15:05:00,763 - INFO - no overlap
+2025-06-18 15:05:00,763 - INFO - Running test: test_overlap_check_3
+2025-06-18 15:05:00,765 - ERROR - Overlap
+2025-06-18 15:05:00,765 - INFO - Running test: test_overlap_check_4
+2025-06-18 15:05:00,766 - ERROR - Overlap
+2025-06-18 15:05:00,767 - INFO - Running test: test_overlap_check_5
+2025-06-18 15:05:00,767 - ERROR - Overlap
+2025-06-18 15:05:00,768 - INFO - Running test: test_overlap_check_6
+2025-06-18 15:05:00,768 - INFO - no overlap
+2025-06-18 15:05:00,768 - INFO - Running test: test_overlap_check_7
+2025-06-18 15:05:00,769 - INFO - no overlap
+2025-06-18 15:05:00,769 - INFO - Running test: test_overlap_check_8
+2025-06-18 15:05:00,771 - ERROR - Overlap
+2025-06-18 15:05:00,771 - INFO - Running test: test_overlap_check_9
+2025-06-18 15:05:00,772 - INFO - no overlap
+2025-06-19 10:29:39,766 - INFO - Running test: test_overlap_check_1
+2025-06-19 10:29:39,773 - ERROR - Overlap
+2025-06-19 10:29:39,774 - INFO - Running test: test_overlap_check_10
+2025-06-19 10:29:39,775 - INFO - no overlap
+2025-06-19 10:29:39,775 - INFO - Running test: test_overlap_check_11
+2025-06-19 10:29:39,776 - INFO - no overlap
+2025-06-19 10:29:39,776 - INFO - Running test: test_overlap_check_12
+2025-06-19 10:29:39,777 - INFO - no overlap
+2025-06-19 10:29:39,778 - INFO - Running test: test_overlap_check_13
+2025-06-19 10:29:39,778 - INFO - no overlap
+2025-06-19 10:29:39,780 - INFO - Running test: test_overlap_check_14
+2025-06-19 10:29:39,780 - ERROR - invalid input
+2025-06-19 10:29:39,781 - INFO - Running test: test_overlap_check_15
+2025-06-19 10:29:39,781 - ERROR - invalid input
+2025-06-19 10:29:39,783 - INFO - Running test: test_overlap_check_16
+2025-06-19 10:29:39,784 - ERROR - invalid range
+2025-06-19 10:29:39,787 - INFO - Running test: test_overlap_check_2
+2025-06-19 10:29:39,787 - INFO - no overlap
+2025-06-19 10:29:39,788 - INFO - Running test: test_overlap_check_3
+2025-06-19 10:29:39,788 - ERROR - Overlap
+2025-06-19 10:29:39,789 - INFO - Running test: test_overlap_check_4
+2025-06-19 10:29:39,789 - ERROR - Overlap
+2025-06-19 10:29:39,790 - INFO - Running test: test_overlap_check_5
+2025-06-19 10:29:39,790 - ERROR - Overlap
+2025-06-19 10:29:39,792 - INFO - Running test: test_overlap_check_6
+2025-06-19 10:29:39,793 - INFO - no overlap
+2025-06-19 10:29:39,793 - INFO - Running test: test_overlap_check_7
+2025-06-19 10:29:39,794 - INFO - no overlap
+2025-06-19 10:29:39,795 - INFO - Running test: test_overlap_check_8
+2025-06-19 10:29:39,798 - ERROR - Overlap
+2025-06-19 10:29:39,799 - INFO - Running test: test_overlap_check_9
+2025-06-19 10:29:39,800 - INFO - no overlap
+2025-06-19 10:30:48,334 - INFO - Running test: test_overlap_check_1
+2025-06-19 10:30:48,340 - ERROR - Overlap
+2025-06-19 10:30:48,341 - INFO - Running test: test_overlap_check_10
+2025-06-19 10:30:48,343 - INFO - no overlap
+2025-06-19 10:30:48,343 - INFO - Running test: test_overlap_check_11
+2025-06-19 10:30:48,344 - INFO - no overlap
+2025-06-19 10:30:48,345 - INFO - Running test: test_overlap_check_12
+2025-06-19 10:30:48,345 - INFO - no overlap
+2025-06-19 10:30:48,346 - INFO - Running test: test_overlap_check_13
+2025-06-19 10:30:48,347 - INFO - no overlap
+2025-06-19 10:30:48,348 - INFO - Running test: test_overlap_check_14
+2025-06-19 10:30:48,349 - ERROR - invalid input
+2025-06-19 10:30:48,351 - INFO - Running test: test_overlap_check_15
+2025-06-19 10:30:48,352 - ERROR - invalid input
+2025-06-19 10:30:48,353 - INFO - Running test: test_overlap_check_16
+2025-06-19 10:30:48,354 - INFO - no overlap
+2025-06-19 10:30:48,355 - INFO - Running test: test_overlap_check_2
+2025-06-19 10:30:48,356 - INFO - no overlap
+2025-06-19 10:30:48,356 - INFO - Running test: test_overlap_check_3
+2025-06-19 10:30:48,357 - ERROR - Overlap
+2025-06-19 10:30:48,358 - INFO - Running test: test_overlap_check_4
+2025-06-19 10:30:48,359 - ERROR - Overlap
+2025-06-19 10:30:48,360 - INFO - Running test: test_overlap_check_5
+2025-06-19 10:30:48,360 - ERROR - Overlap
+2025-06-19 10:30:48,362 - INFO - Running test: test_overlap_check_6
+2025-06-19 10:30:48,363 - INFO - no overlap
+2025-06-19 10:30:48,364 - INFO - Running test: test_overlap_check_7
+2025-06-19 10:30:48,365 - INFO - no overlap
+2025-06-19 10:30:48,367 - INFO - Running test: test_overlap_check_8
+2025-06-19 10:30:48,368 - ERROR - Overlap
+2025-06-19 10:30:48,369 - INFO - Running test: test_overlap_check_9
+2025-06-19 10:30:48,369 - INFO - no overlap
