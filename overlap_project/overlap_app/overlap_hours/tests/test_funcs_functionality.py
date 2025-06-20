@@ -1,4 +1,4 @@
-from overlap_hours import funcs as f
+from overlap_app.overlap_hours import funcs as f
 
 data1 = [{"Day": "Monday", "Start": "09:00", "End": "11:00"}, 
         {"Day": "Friday", "Start": "10:00", "End": "11:00"}, 

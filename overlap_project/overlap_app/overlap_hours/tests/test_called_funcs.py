@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch
-from overlap_hours.API import overlap_checker as o
+from overlap_app.overlap_hours.API import overlap_checker as o
 
 class TestCalledFunctions(unittest.TestCase):
     @patch('overlap_hours.funcs.overlapping_days')

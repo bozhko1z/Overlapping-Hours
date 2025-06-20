@@ -1,5 +1,4 @@
-from overlap_hours.API.overlap_checker import run_overlap_funcs
-import logger.log_config as log
+from overlap_app.overlap_hours import run_overlap_funcs
 import logging
 import ast
 
