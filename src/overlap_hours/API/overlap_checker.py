@@ -1,4 +1,4 @@
-from ..funcs import overlapping_days, overlapping_time
+from ..funcs import overlapping
 
 def run_overlap_funcs(data: dict) -> bool:
     #google-style documentation
@@ -19,7 +19,7 @@ def run_overlap_funcs(data: dict) -> bool:
     
     """
    
-    if False in [overlapping_days(data=data), overlapping_time(data=data)]:
+    if False in overlapping(data=data):
         return False
     return True
 
