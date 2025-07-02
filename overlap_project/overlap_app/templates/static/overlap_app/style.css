@@ -1,7 +1,11 @@
-.mess{
-    animation: ease-out !important;
-    transition: 1s !important;
+.fade-out {
+  animation: fadeOut 2s forwards;
+}
+
+@keyframes fadeOut {
+  from { opacity: 1; }
+  to { opacity: 0; }
 }
 ::placeholder{
-    color: red !important;
+    opacity: 0.5 !important;
 }
