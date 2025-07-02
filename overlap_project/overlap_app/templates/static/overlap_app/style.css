@@ -1,0 +1,7 @@
+#message{
+    animation: ease-out;
+    transition: 1s;
+}
+::placeholder{
+    color: red;
+}

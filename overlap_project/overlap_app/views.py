@@ -3,20 +3,20 @@ from overlap_app.overlap_hours.funcs import overlapping
 
 
 def home(request):
+
     if request.method == 'POST':
-        day1 = request.POST.get('day1')
-        start1 = request.POST.get('start1')
-        end1 = request.POST.get('end1')
+        days = request.POST.getlist('day')
+        starts = request.POST.getlist('start')
+        ends = request.POST.getlist('end')
+        data = []
 
-        day2 = request.POST.get('day2')
-        start2 = request.POST.get('start2')
-        end2 = request.POST.get('end2')
-
-        data = [
-            {"Day": day1, "Start": start1, "End": end1},
-            {"Day": day2, "Start": start2, "End": end2}
-        ]
+        for day, start, end in zip(days, starts, ends):
+            if day and start and end:
+                data.append({'Day': day, 'Start': start, 'End': end})
 
         result = overlapping(data)
-        return render(request, 'overlap_app/home.html', {'result': result})
-    return render(request, 'overlap_app/home.html')
+
+        if result is not None:
+            return render(request, 'static/overlap_app/home.html', {'result': result})
+
+    return render(request, 'static/overlap_app/home.html')
