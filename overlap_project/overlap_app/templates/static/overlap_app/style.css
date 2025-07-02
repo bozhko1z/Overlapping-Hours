@@ -1,7 +1,7 @@
-#message{
-    animation: ease-out;
-    transition: 1s;
+.mess{
+    animation: ease-out !important;
+    transition: 1s !important;
 }
 ::placeholder{
-    color: red;
+    color: red !important;
 }
