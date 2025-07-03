@@ -1,6 +1,5 @@
 from datetime import datetime
 
-
 days_mapping = {
     "Monday": ["Monday"],
     "Tuesday": ["Tuesday"],
@@ -33,48 +32,41 @@ day_index = {
 
 
 def overlapping(data):
-
     time_format = "%H:%M"
 
-    converted_inputs = []
+    converted_inputs = {}
 
-    if data == [] or len(data) == 1:
-        print("invalid input")
-        return False
+
 
     for item in data:
         mapped_days = days_mapping[item["Day"]]
 
-        try:
-            # manual parsing
-            #    start = time_converting(mapped_days[0] ,item["Start"])
-            #    end = time_converting(mapped_days[0], item["End"])
-            start = datetime.strptime(item["Start"], time_format).time()
-            end = datetime.strptime(item["End"], time_format).time()
+        for day in mapped_days:
+            if day not in converted_inputs:
+                converted_inputs[day] = []
+            try:
+                start = datetime.strptime(item["Start"], time_format).time()
+                end = datetime.strptime(item["End"], time_format).time()
+            except ValueError:
+                print("invalid format")
+                return False
 
-        except ValueError:
-            print("invalid format")
-            return False
+            converted_inputs[day].append({"start": start, "end": end})
 
-        converted_inputs.append({"days": mapped_days, "start": start, "end": end})
+    for day in converted_inputs:
+        converted_inputs[day].sort(key=lambda x: x["start"])
 
-        # slot a      (called them slots for better understanding)
-    for i in range(len(converted_inputs)):
-        # slot b
-        for j in range(i + 1, len(converted_inputs)):
-            # check if two slots have the same days
-            commons = set(converted_inputs[i]["days"]) & set(
-                converted_inputs[j]["days"]
-            )
-            if commons:
-                start1 = converted_inputs[i]["start"]
-                end1 = converted_inputs[i]["end"]
-                start2 = converted_inputs[j]["start"]
-                end2 = converted_inputs[j]["end"]
+    # slot a      (called them slots for better understanding)
+    for day in converted_inputs:
+        relative_start = converted_inputs[day][0]["end"]
+        for slot in converted_inputs[day][1:]:
+            slot_start = slot["start"]
+            slot_end = slot["end"]
+            if slot_start <= relative_start:
+                print("overlap")
+                return False
+            relative_start = slot_end
 
-                if not (end1 <= start2 or end2 <= start1):
-                    print("Overlap")
-                    return False
     print("no overlap")
     return True
 
