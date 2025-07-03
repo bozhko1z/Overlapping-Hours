@@ -174,3 +174,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+/overlap_project/overlap_app/overlap_hours/tests/_trial_temp/_trial_marker

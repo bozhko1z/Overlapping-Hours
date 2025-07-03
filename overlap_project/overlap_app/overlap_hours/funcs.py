@@ -31,7 +31,7 @@ day_index = {
 }
 
 
-def overlapping(data):
+def is_data_valid(data):
     time_format = "%H:%M"
 
     converted_inputs = {}

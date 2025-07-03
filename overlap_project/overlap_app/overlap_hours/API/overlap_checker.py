@@ -1,4 +1,4 @@
-from ..funcs import overlapping
+from ..funcs import is_data_valid
 
 
 def run_overlap_funcs(data: dict) -> bool:
@@ -20,7 +20,7 @@ def run_overlap_funcs(data: dict) -> bool:
 
     """
 
-    if False in overlapping(data=data):
+    if False in is_data_valid(data=data):
         return False
     return True
 

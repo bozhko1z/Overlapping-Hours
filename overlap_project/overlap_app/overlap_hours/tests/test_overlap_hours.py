@@ -1,7 +1,7 @@
 import datetime
 import unittest
 
-from overlap_hours.funcs import overlapping
+from overlap_hours.funcs import is_data_valid
 
 
 class TestOverlappingHours(unittest.TestCase):
@@ -11,7 +11,7 @@ class TestOverlappingHours(unittest.TestCase):
             {"Day": "Friday", "Start": "12:00", "End": "14:00"},
             {"Day": "Monday", "Start": "15:00", "End": "19:00"},
         ]
-        self.assertTrue(overlapping(data))
+        self.assertTrue(is_data_valid(data))
 
     def test_no_overlapping_days(self):
         data = [
@@ -19,7 +19,7 @@ class TestOverlappingHours(unittest.TestCase):
             {"Day": "Tuesday", "Start": "12:00", "End": "14:00"},
             {"Day": "Friday", "Start": "15:00", "End": "19:00"},
         ]
-        self.assertTrue(overlapping(data))
+        self.assertTrue(is_data_valid(data))
 
     def test_overlapping_time(self):
         data = [
@@ -27,7 +27,24 @@ class TestOverlappingHours(unittest.TestCase):
             {"Day": "Monday", "Start": "12:00", "End": "14:00"},
             {"Day": "Friday", "Start": "15:00", "End": "19:00"},
         ]
-        self.assertFalse(overlapping(data))
+        self.assertFalse(is_data_valid(data))
+
+
+    def test_overlapping_time_1(self):
+        data = [
+            {"Day": "Monday", "Start": "09:00", "End": "18:00"},
+            {"Day": "Friday", "Start": "15:00", "End": "19:00"},
+            {"Day": "Working days", "Start": "16:00", "End": "17:00"},
+        ]
+        self.assertFalse(is_data_valid(data))
+
+    def test_overlapping_time_2(self):
+        data = [
+            {"Day": "Monday", "Start": "09:00", "End": "18:00"},
+            {"Day": "Friday", "Start": "15:00", "End": "19:00"},
+            {"Day": "All days", "Start": "16:00", "End": "17:00"},
+        ]
+        self.assertFalse(is_data_valid(data))
 
     def test_no_overlapping_time(self):
         data = [
@@ -35,13 +52,29 @@ class TestOverlappingHours(unittest.TestCase):
             {"Day": "Monday", "Start": "15:00", "End": "19:00"},
             {"Day": "Friday", "Start": "15:00", "End": "19:00"},
         ]
-        self.assertTrue(overlapping(data))
+        self.assertTrue(is_data_valid(data))
+
+    def test_no_overlapping_time_2(self):
+        data = [
+            {"Day": "Monday", "Start": "09:00", "End": "14:00"},
+            {"Day": "Monday", "Start": "15:00", "End": "19:00"},
+            {"Day": "All days", "Start": "20:00", "End": "21:00"},
+        ]
+        self.assertTrue(is_data_valid(data))
+
+    def test_no_overlapping_time_3(self):
+        data = [
+            {"Day": "Monday", "Start": "09:00", "End": "18:00"},
+            {"Day": "Friday", "Start": "15:00", "End": "19:00"},
+            {"Day": "Weekend", "Start": "16:00", "End": "17:00"},
+        ]
+        self.assertTrue(is_data_valid(data))
 
     def test_mock(self):
         data = [
             {"Day": "Monday", "Start": "09:00", "End": "14:00"},
         ]
-        self.assertTrue(overlapping(data))
+        self.assertTrue(is_data_valid(data))
 
     def test_mock_1(self):
 
@@ -49,7 +82,7 @@ class TestOverlappingHours(unittest.TestCase):
             {"Day": "Monday", "Start": "09:00", "End": "14:00"},
             {"Day": "Tuesday", "Start": "09:00", "End": "14:00"},
         ]
-        self.assertTrue(overlapping(data))
+        self.assertTrue(is_data_valid(data))
 
     def test_mock_2(self):
         data = []
@@ -73,7 +106,7 @@ class TestOverlappingHours(unittest.TestCase):
                     )
 
         time_start = datetime.datetime.now()
-        result = overlapping(data)
+        result = is_data_valid(data)
         time_end = datetime.datetime.now()
         self.assertTrue(result)
 
