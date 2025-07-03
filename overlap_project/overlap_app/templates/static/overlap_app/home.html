@@ -41,12 +41,13 @@
                     <div class="mb-3 col-4">
                         <label for="starts" class="form-label">Start Time</label>
                         <input type="text" name="start" id="starts" class="form-control" placeholder="e.g. 09:00">
-                        <div class="alert-message">Enter a valid time</div>
+                        <span id="startError" class="error"></span>
                     </div>
 
                     <div class="mb-3 col-4">
                         <label for="ends" class="form-label">End Time</label>
                         <input type="text" name="end" id="ends" class="form-control" placeholder="e.g. 17:00">
+                        <span id="endError" class="error"></span>
                     </div>
                 </div>
             </div>
@@ -80,6 +81,8 @@
                     event.preventDefault();
                 }
             });
+
+
         function hiddenInp(){
             const form = document.querySelector('form');
 
@@ -106,6 +109,9 @@
             const start = startInput.value
             const end = endInput.value
 
+            const startError = document.getElementById("startError");
+            const endError = document.getElementById("endError");
+
             if(!day || !start || !end){
                 alert("please fill in all the fields")
                 return;
@@ -114,9 +120,20 @@
                 alert("invalid format, Aleks")
                 return;
             }
-            if(!start.includes(':') || !end.includes(':')){
-                alert("invalid input")
+            if(!start.includes(':') && !end.includes(':')){
+                startError.textContent = "Enter a valid time!";
+                endError.textContent = "Enter a valid time!";
                 return;
+            } else if(!end.includes(':')){
+                endError.textContent = "Enter a valid time!";
+                return;
+            } else if(!start.includes(':')){
+                startError.textContent = "Enter a valid time!";
+                return;
+            }
+            else{
+                startError.textContent = "";
+                endError.textContent = "";
             }
 
             slots.push({day, start, end})
