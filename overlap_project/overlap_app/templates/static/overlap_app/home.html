@@ -40,13 +40,13 @@
 
                     <div class="mb-3 col-4">
                         <label for="starts" class="form-label">Start Time</label>
-                        <input type="time" name="start" id="starts" class="form-control time" placeholder="e.g. 09:00">
+                        <input type="text" name="start" id="starts" class="form-control" maxlength=5 placeholder="HH:MM">
                         <span id="startError" class="error"></span>
                     </div>
 
                     <div class="mb-3 col-4">
                         <label for="ends" class="form-label">End Time</label>
-                        <input type="time" name="end" id="ends" class="form-control time" placeholder="e.g. 17:00">
+                        <input type="text" name="end" id="ends" class="form-control" maxlength=5 placeholder="HH:MM">
                         <span id="endError" class="error"></span>
                     </div>
                 </div>
@@ -112,7 +112,7 @@
             const startError = document.getElementById("startError");
             const endError = document.getElementById("endError");
 
-            if(!start || !end){
+            if(!start && !end){
                 startError.textContent = "Please fill in all the fields!!!";
                 endError.textContent = "Please fill in all the fields!!!";
                 return;
@@ -140,7 +140,7 @@
             } else if(!end.includes(':')){
                 endError.textContent = "Enter a valid time!";
                 return;
-            } else if(!start.includes(':')){
+            } else if(!//){
                 startError.textContent = "Enter a valid time!";
                 return;
             }
