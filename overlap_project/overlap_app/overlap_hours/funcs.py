@@ -1,3 +1,5 @@
+import typing
+from copy import deepcopy
 from datetime import datetime
 
 days_mapping = {
@@ -31,16 +33,22 @@ day_index = {
 }
 
 
-def is_data_valid(data):
-    time_format = "%H:%M"
+def _read_data(raw_data: dict) -> typing.Optional[dict]:
+    """
+    Converts raw data into a format that is easier to work with.
 
+    Args:
+        raw_data(dict): A dictionary containing data about the days, start and end times
+
+    Returns:
+        dict or None: A dictionary containing the converted data, or None if the input data is invalid
+    """
+
+    time_format = "%H:%M"
     converted_inputs = {}
 
-
-
-    for item in data:
+    for item in raw_data:
         mapped_days = days_mapping[item["Day"]]
-
         for day in mapped_days:
             if day not in converted_inputs:
                 converted_inputs[day] = []
@@ -49,12 +57,46 @@ def is_data_valid(data):
                 end = datetime.strptime(item["End"], time_format).time()
             except ValueError:
                 print("invalid format")
-                return False
-
+                return None
             converted_inputs[day].append({"start": start, "end": end})
 
-    for day in converted_inputs:
-        converted_inputs[day].sort(key=lambda x: x["start"])
+    return converted_inputs
+
+
+def _sort_data(data: dict) -> dict:
+    """
+    Sorts the data by day and start time.
+
+    Args:
+        data(dict): A dictionary containing data about the days, start and end times
+
+    Returns:
+        dict: A dictionary containing the sorted data
+    """
+
+    _data = deepcopy(data)
+
+    for day in _data:
+        _data[day].sort(key=lambda x: x["start"])
+
+    return _data
+
+
+def is_data_valid(data: dict) -> bool:
+    """
+    Checks if the given data contains overlapping time slots.
+
+    Args:
+        data (list): A list of dictionaries containing day, start and end times.
+
+    Returns:
+        bool: True if no overlapping time slots found, False otherwise.
+    """
+    converted_inputs = _read_data(raw_data=data)
+    if converted_inputs is None:
+        return False
+
+    converted_inputs = _sort_data(data=converted_inputs)
 
     # slot a      (called them slots for better understanding)
     for day in converted_inputs:
