@@ -40,13 +40,13 @@
 
                     <div class="mb-3 col-4">
                         <label for="starts" class="form-label">Start Time</label>
-                        <input type="text" name="start" id="starts" class="form-control" placeholder="e.g. 09:00">
+                        <input type="time" name="start" id="starts" class="form-control time" placeholder="e.g. 09:00">
                         <span id="startError" class="error"></span>
                     </div>
 
                     <div class="mb-3 col-4">
                         <label for="ends" class="form-label">End Time</label>
-                        <input type="text" name="end" id="ends" class="form-control" placeholder="e.g. 17:00">
+                        <input type="time" name="end" id="ends" class="form-control time" placeholder="e.g. 17:00">
                         <span id="endError" class="error"></span>
                     </div>
                 </div>
@@ -112,14 +112,27 @@
             const startError = document.getElementById("startError");
             const endError = document.getElementById("endError");
 
-            if(!day || !start || !end){
-                alert("please fill in all the fields")
+            if(!start || !end){
+                startError.textContent = "Please fill in all the fields!!!";
+                endError.textContent = "Please fill in all the fields!!!";
+                return;
+            } else if(!end){
+                endError.textContent = "Please fill in all the fields!!!";
+                return;
+            } else if(!start){
+                startError.textContent = "Please fill in all the fields!!!";
                 return;
             }
+
             if (end < start){
-                alert("invalid format, Aleks")
+                endError.textContent = "End time cannot be bigger than start time!!!"
                 return;
             }
+            else{
+                startError.textContent = "";
+                endError.textContent = "";
+            }
+
             if(!start.includes(':') && !end.includes(':')){
                 startError.textContent = "Enter a valid time!";
                 endError.textContent = "Enter a valid time!";
