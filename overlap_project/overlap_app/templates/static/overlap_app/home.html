@@ -99,6 +99,7 @@
                 });
             });
         }
+
         function saveSlot() {
 
             const dayInput = currentSlot.querySelector('select');
@@ -109,8 +110,23 @@
             const start = startInput.value
             const end = endInput.value
 
+
             const startError = document.getElementById("startError");
             const endError = document.getElementById("endError");
+
+            function isTimeRangeValid(str) {
+                const [hourStr, minuteStr] = str.split(":");
+                const hour = parseInt(hourStr, 10);
+                const minute = parseInt(minuteStr, 10);
+
+                return (
+                    !isNaN(hour) &&
+                    !isNaN(minute) &&
+                    hour >= 0 && hour <= 23 &&
+                    minute >= 0 && minute <= 59
+                );
+            }
+
 
             if(!start && !end){
                 startError.textContent = "Please fill in all the fields!!!";
@@ -133,14 +149,14 @@
                 endError.textContent = "";
             }
 
-            if(!start.includes(':') && !end.includes(':')){
+            if(!isTimeRangeValid(start) && !isTimeRangeValid(end)){
                 startError.textContent = "Enter a valid time!";
                 endError.textContent = "Enter a valid time!";
                 return;
-            } else if(!end.includes(':')){
+            } else if(!isTimeRangeValid(end)){
                 endError.textContent = "Enter a valid time!";
                 return;
-            } else if(!//){
+            } else if(!isTimeRangeValid(start)){
                 startError.textContent = "Enter a valid time!";
                 return;
             }
