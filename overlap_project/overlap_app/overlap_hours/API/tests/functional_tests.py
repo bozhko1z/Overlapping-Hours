@@ -137,13 +137,13 @@ class TestCalledFunctions(unittest.TestCase):
         testName = self._testMethodName
         logging.info(f"Running test: {testName}")
         data = []
-        self.assertFalse(f.overlapping(data=data))
+        self.assertFalse(run_overlap_funcs(data=data))
         
     def test_overlap_check_15(self):
         testName = self._testMethodName
         logging.info(f"Running test: {testName}")
         data = [{"Day": "Monday", "Start": "09:00", "End": "12:30"}]
-        self.assertFalse(run_overlap_funcs(data=data))
+        self.assertTrue(run_overlap_funcs(data=data))
     
     def test_overlap_check_16(self):
         testName = self._testMethodName

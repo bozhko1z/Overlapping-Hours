@@ -152,12 +152,16 @@
             if(!isTimeRangeValid(start) && !isTimeRangeValid(end)){
                 startError.textContent = "Enter a valid time!";
                 endError.textContent = "Enter a valid time!";
+                startInput.value = '';
+                endInput.value = '';
                 return;
             } else if(!isTimeRangeValid(end)){
                 endError.textContent = "Enter a valid time!";
+                endInput.value = '';
                 return;
             } else if(!isTimeRangeValid(start)){
                 startError.textContent = "Enter a valid time!";
+                startInput.value = '';
                 return;
             }
             else{

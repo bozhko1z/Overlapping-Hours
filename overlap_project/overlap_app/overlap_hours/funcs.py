@@ -30,7 +30,7 @@ def overlapping(data):
    
    converted_inputs = []
    
-   if data == [] or len(data) == 1:
+   if data == []:
        print("invalid input")
        return False
    
