@@ -1,4 +1,5 @@
 from datetime import datetime
+import json
 
 
 days_mapping = {
@@ -54,7 +55,7 @@ def overlapping(data: dict) -> bool:
 
     converted_inputs = []
 
-    if data == [] or len(data) == 1:
+    if data == []:
         print("invalid input")
         return False
 
@@ -70,7 +71,6 @@ def overlapping(data: dict) -> bool:
             return False
 
         converted_inputs.append({"days": mapped_days, "start": start, "end": end})
-
         # slot a      (called them slots for better understanding)
     for i in range(len(converted_inputs)):
         # slot b

@@ -22,20 +22,3 @@ def run_overlap_funcs(data: dict) -> bool:
     if False in overlapping(data=data):
         return False
     return True
-
-    # second way using all() -> returns true if all values are true
-    # return all([
-    #     overlapping_days(data=data),
-    #     overlapping_time(data=data)
-    # ])
-
-    # try:
-    #     if operation == "both":
-    #         overlapping_days(data), overlapping_time(data)
-    #     else:
-    #         raise ValueError("Invalid operation")
-
-    #     return True
-    # except Exception as e:
-    #     print(f"Error: {e}")
-    #     return False
