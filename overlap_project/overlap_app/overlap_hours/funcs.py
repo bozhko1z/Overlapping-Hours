@@ -1,4 +1,5 @@
 from datetime import datetime
+import json
 
 
 days_mapping = {
@@ -24,7 +25,7 @@ day_index = {
    }
 
 
-def overlapping(data):
+def overlapping(data: dict) -> bool:
    
    time_format = "%H:%M"
    
@@ -38,23 +39,21 @@ def overlapping(data):
        mapped_days = days_mapping[item["Day"]]
        
        try:
-            # manual parsing
-        #    start = time_converting(mapped_days[0] ,item["Start"])
-        #    end = time_converting(mapped_days[0], item["End"])
            start = datetime.strptime(item["Start"], time_format).time()
            end = datetime.strptime(item["End"], time_format).time()
            
        except ValueError:
            print("invalid format")
            return False
-       
+
+
        converted_inputs.append({
            "days": mapped_days,
            "start": start,
            "end": end
-            })
-    
-        # slot a      (called them slots for better understanding)
+       })
+
+         # slot a      (called them slots for better understanding)
    for i in range(len(converted_inputs)):
             # slot b
         for j in range(i + 1, len(converted_inputs)):

@@ -1,5 +1,5 @@
 from django.contrib import admin
 from django.contrib.postgres.lookups import Overlap
-from .models import Input
+from .models import WorkingHours
 
-admin.site.register(Input)
+admin.site.register(WorkingHours)
