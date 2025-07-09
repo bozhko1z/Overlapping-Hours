@@ -1,7 +1,9 @@
+from django.contrib.auth.decorators import login_required
 from django.shortcuts import render
 from overlap_app.overlap_hours.funcs import overlapping
 
 
+@login_required
 def home(request):
 
     if request.method == 'POST':
