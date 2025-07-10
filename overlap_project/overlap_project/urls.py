@@ -17,7 +17,10 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 
+from overlap_app import views
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     path("", include("overlap_app.urls")),
+    path("edit/", include("overlap_app.urls")),
 ]
