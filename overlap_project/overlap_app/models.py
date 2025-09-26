@@ -10,7 +10,7 @@ class Shop(models.Model):
 
 
 class WorkingHours(models.Model):
-    shop = models.ForeignKey(Shop, on_delete=models.CASCADE, related_name='working_hours')
+    shop = models.ForeignKey(Shop, on_delete=models.CASCADE, related_name='working_hours', blank=True, null=True)
     day = models.CharField(max_length=20)
     start = models.TimeField()
     end = models.TimeField()

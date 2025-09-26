@@ -50,8 +50,6 @@ def overlapping(data: dict) -> bool:
 
     """
 
-    time_format = "%H:%M"
-
     converted_inputs = []
 
     if data == []:
@@ -62,23 +60,25 @@ def overlapping(data: dict) -> bool:
         mapped_days = days_mapping[item["Day"]]
 
         try:
-            start = datetime.strptime(item["Start"], time_format).time()
-            end = datetime.strptime(item["End"], time_format).time()
+            start = item["Start"]
+            end = item["End"]
 
         except ValueError:
             print("invalid format")
             return False
 
-        converted_inputs.append({"days": mapped_days, "start": start, "end": end})
+        converted_inputs.append({
+            "days": mapped_days,
+            "start": start,
+            "end": end
+        })
 
         # slot a      (called them slots for better understanding)
     for i in range(len(converted_inputs)):
         # slot b
         for j in range(i + 1, len(converted_inputs)):
             # check if two slots have the same days
-            commons = set(converted_inputs[i]["days"]) & set(
-                converted_inputs[j]["days"]
-            )
+            commons = set(converted_inputs[i]["days"]) & set(converted_inputs[j]["days"])
             if commons:
                 start1 = converted_inputs[i]["start"]
                 end1 = converted_inputs[i]["end"]
